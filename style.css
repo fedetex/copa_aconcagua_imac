@@ -1,0 +1,275 @@
+@CHARSET "UTF-8";
+#watermark {
+  color: #d0d0d0;
+  font-size: 200pt;
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  z-index: 10;
+  opacity:0.5;
+  left:200px;
+  pointer-events: none;
+}
+
+div.comptitle {
+    font-size: 3.4em;
+    text-align: left;
+    padding: 15px 2px 20px 2px;
+}
+
+div.compdate{
+    text-align: left;
+    padding: 3px 70px 2px 7px;
+}
+
+h1.overalltitle {
+    text-align: left;
+    padding-left: 1px;
+    padding-bottom: 10px;
+}
+
+.pilottitle {
+    text-align: left;
+    padding-left: 1px;
+    padding-bottom: 1px;
+}
+
+.sectiontitle {
+    text-align: left;
+    padding-left: 1px;
+    padding-bottom: 1px;
+}
+
+table, th, td {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse:collapse;
+    margin-left: 10px;
+}
+
+th {
+    font-size: 1.4em;
+    text-align: left;
+    padding: 3px 7px 2px 7px;
+}
+
+td {
+    font-size: 1.4em;
+    text-align: left;
+    padding: 3px 7px 2px 7px;
+}
+
+.thrown {
+    font-weight: normal;
+    display:inline;
+}
+
+.finalscore {
+    text-align: center;
+    vertical-align: top;
+    font-weight:bold;
+}
+
+.finalscore_even {
+    text-align: center;
+    vertical-align: top;
+    font-weight:bold;
+}
+
+.score {
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    vertical-align: top;
+}
+
+.score_even {
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    vertical-align: top;
+}
+
+.scorehighlight {
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    vertical-align: top;
+    font-weight:bold;
+}
+
+.scorehighlight_even {
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    vertical-align: top;
+    font-weight:bold;
+}
+
+.leftdata {
+    text-align: left;
+    padding-right: 3px;
+    font-weight:normal;
+    white-space: nowrap;
+    overflow: scroll;
+}
+
+.leftdata_even {
+    text-align: left;
+    padding-right: 3px;
+    font-weight:normal;
+    white-space: nowrap;
+    overflow: scroll;
+}
+
+.leftdatasum {
+    text-align: right;
+    padding-right: 3px;
+    font-weight:bold;
+}
+.leftdatasum_k {
+    text-align: right;
+    padding-right: 3px;
+    font-weight:bold;
+}
+.leftdatasum_p {
+    text-align: right;
+    padding-right: 3px;
+    font-weight:bold;
+}
+.sumdata {
+    text-align: right;
+    font-weight:bold;
+}
+.sumdata_k {
+    text-align: right;
+    font-weight:bold;
+}
+.sumdata_p {
+    text-align: right;
+    font-weight:bold;
+}
+
+div.thrownscore {
+    text-decoration: line-through;
+    color: lightgray;
+}
+
+.pilottitle {
+}
+
+.pilotname {
+    display: inline;
+}
+
+.leftpname {
+    text-align: left;
+    vertical-align: top;
+    white-space: nowrap;
+    overflow: scroll;
+}
+
+.leftpname_even {
+    text-align: left;
+    vertical-align: top;
+    white-space: nowrap;
+    overflow: scroll;
+}
+
+.leftrank {
+    text-align: center;
+    vertical-align: top;
+}
+
+.leftrank_even {
+    text-align: center;
+    vertical-align: top;
+}
+
+.brstr {
+    font-weight: normal;
+    font-size:8px;
+    display:inline;
+}
+
+.comstr {
+    font-weight: normal;
+    font-size:8px;
+    display:inline;
+}
+
+table.comments {
+    border: none;
+}
+
+td.commentshdr {
+    border: none;
+    text-align: left;
+    font-weight:bold;
+}
+
+td.comment {
+    border: none;
+    text-align: left;
+    font-weight:normal;
+    padding-left: 10px;
+}
+
+td.comment_even {
+    border: none;
+    text-align: left;
+    font-weight:normal;
+    padding-left: 10px;
+}
+
+
+.seqhdr {
+    font-size: 1.0em;
+    padding-left: 3px;
+    padding-right: 3px;
+    text-align: center;
+    font-weight:bold;
+}
+.roundhdr {
+    padding-left: 3px;
+    padding-right: 3px;
+    text-align: center;
+    font-weight:bold;
+}
+.lefthdr {
+    padding-left: 3px;
+    padding-right: 3px;
+    text-align: center;
+    font-weight:bold;
+}
+.typehdr {
+    padding-left: 3px;
+    padding-right: 3px;
+    text-align: center;
+    font-weight:bold;
+}
+.judgehdr {
+    font-size: 1.0em;
+    padding-left: 3px;
+    padding-right: 3px;
+    text-align: center;
+    font-weight:bold;
+}
+
+div.percentage {
+    visibility: visible;
+}
+
+BODY { font-size:70%; font-family:sans-serif; line-height:120%; }
+H1 { font-size:2.5em; }
+H2 { font-size:1.2em; }
+H3 { font-size:2.2em; }
+H4 { font-size:3.4em; }
+TD.small { font-size:0.65em; }
+TD DIV { margin-bottom: 5px }
+TD.leftpname div { padding: 8px 0px 0px 5px; }
+TD.leftpname_even div { padding: 8px 0px 0px 5px; }
+P { margin-top:0; margin-bottom:0; }
+P.fine { font-size:0.7em; }

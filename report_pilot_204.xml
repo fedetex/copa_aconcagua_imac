@@ -1,0 +1,1442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This file was written by the 'Score!' program -->
+<!-- 'Score!' is a program for scorekeeping aerobatic contests -->
+<report>
+   <contest_name>copa ACONCAGUA 2da Fecha Chile</contest_name>
+   <type>Pilot Report</type>
+   <timestamp>1-nov-2022 10:09</timestamp>
+   <pilot id="204">
+      <name>Fernando Abasolo</name>
+      <missing_pilot_panel>false</missing_pilot_panel>
+      <active>true</active>
+      <freestyle>false</freestyle>
+      <class type="SPORTSMAN"/>
+      <frequency>0</frequency>
+      <ama_number>204</ama_number>
+      <imac_number>204</imac_number>
+   </pilot>
+   <section type="KNOWN" start_round="1" end_round="3" judge_sheet="1">
+      <flight round="1" sequence="1" ksum="1191,5" score="1191,5">
+         <figure index="0">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>26</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>30</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Reverse 5/8 Vertical Loop (Teardrop)</desc>
+            <k_factor>25</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Inside Loop (Immelmann)</desc>
+            <k_factor>21</k_factor>
+            <score>5.5</score>
+         </figure>
+         <figure index="4">
+            <desc>1 3/4 Turn Positive Spin</desc>
+            <k_factor>13</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>16</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Reverse 1/2 Cuban</desc>
+            <k_factor>22</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Outside / Inside Loop</desc>
+            <k_factor>16</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reversing P-Loop</desc>
+            <k_factor>21</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Q-Loop</desc>
+            <k_factor>25</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>6</k_factor>
+            <score>10.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>6</k_factor>
+            <score>10.0</score>
+         </figure>
+      </flight>
+      <flight round="1" sequence="2" ksum="1160,5" score="1160,5">
+         <figure index="0">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>26</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>30</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Reverse 5/8 Vertical Loop (Teardrop)</desc>
+            <k_factor>25</k_factor>
+            <score>5.5</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Inside Loop (Immelmann)</desc>
+            <k_factor>21</k_factor>
+            <score>5.5</score>
+         </figure>
+         <figure index="4">
+            <desc>1 3/4 Turn Positive Spin</desc>
+            <k_factor>13</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>16</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Reverse 1/2 Cuban</desc>
+            <k_factor>22</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Outside / Inside Loop</desc>
+            <k_factor>16</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reversing P-Loop</desc>
+            <k_factor>21</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Q-Loop</desc>
+            <k_factor>25</k_factor>
+            <score>4.5</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>6</k_factor>
+            <score>10.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>6</k_factor>
+            <score>10.0</score>
+         </figure>
+      </flight>
+      <flight round="2" sequence="1" ksum="1225,0" score="1225,0">
+         <figure index="0">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>26</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>30</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Reverse 5/8 Vertical Loop (Teardrop)</desc>
+            <k_factor>25</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Inside Loop (Immelmann)</desc>
+            <k_factor>21</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="4">
+            <desc>1 3/4 Turn Positive Spin</desc>
+            <k_factor>13</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>16</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Reverse 1/2 Cuban</desc>
+            <k_factor>22</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Outside / Inside Loop</desc>
+            <k_factor>16</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reversing P-Loop</desc>
+            <k_factor>21</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Q-Loop</desc>
+            <k_factor>25</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>6</k_factor>
+            <score>10.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>6</k_factor>
+            <score>9.0</score>
+         </figure>
+      </flight>
+      <flight round="2" sequence="2" ksum="1105,0" score="1105,0">
+         <figure index="0">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>26</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>30</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Reverse 5/8 Vertical Loop (Teardrop)</desc>
+            <k_factor>25</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Inside Loop (Immelmann)</desc>
+            <k_factor>21</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="4">
+            <desc>1 3/4 Turn Positive Spin</desc>
+            <k_factor>13</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>16</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Reverse 1/2 Cuban</desc>
+            <k_factor>22</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Outside / Inside Loop</desc>
+            <k_factor>16</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reversing P-Loop</desc>
+            <k_factor>21</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Q-Loop</desc>
+            <k_factor>25</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>6</k_factor>
+            <score>10.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>6</k_factor>
+            <score>9.0</score>
+         </figure>
+      </flight>
+      <flight round="3" sequence="1" ksum="1383,0" score="1383,0">
+         <figure index="0">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>26</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>30</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Reverse 5/8 Vertical Loop (Teardrop)</desc>
+            <k_factor>25</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Inside Loop (Immelmann)</desc>
+            <k_factor>21</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="4">
+            <desc>1 3/4 Turn Positive Spin</desc>
+            <k_factor>13</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>16</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Reverse 1/2 Cuban</desc>
+            <k_factor>22</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Outside / Inside Loop</desc>
+            <k_factor>16</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reversing P-Loop</desc>
+            <k_factor>21</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Q-Loop</desc>
+            <k_factor>25</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>6</k_factor>
+            <score>10.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>6</k_factor>
+            <score>9.0</score>
+         </figure>
+      </flight>
+   </section>
+   <section type="KNOWN" start_round="1" end_round="3" judge_sheet="2">
+      <flight round="1" sequence="1" ksum="1638,0" score="1638,0">
+         <figure index="0">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>26</k_factor>
+            <score>8.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>30</k_factor>
+            <score>8.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Reverse 5/8 Vertical Loop (Teardrop)</desc>
+            <k_factor>25</k_factor>
+            <score>7.5</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Inside Loop (Immelmann)</desc>
+            <k_factor>21</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="4">
+            <desc>1 3/4 Turn Positive Spin</desc>
+            <k_factor>13</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>16</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Reverse 1/2 Cuban</desc>
+            <k_factor>22</k_factor>
+            <score>8.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Outside / Inside Loop</desc>
+            <k_factor>16</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reversing P-Loop</desc>
+            <k_factor>21</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Q-Loop</desc>
+            <k_factor>25</k_factor>
+            <score>6.5</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>6</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>6</k_factor>
+            <score>7.0</score>
+         </figure>
+      </flight>
+      <flight round="1" sequence="2" ksum="1531,5" score="1531,5">
+         <figure index="0">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>26</k_factor>
+            <score>7.5</score>
+         </figure>
+         <figure index="1">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>30</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Reverse 5/8 Vertical Loop (Teardrop)</desc>
+            <k_factor>25</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Inside Loop (Immelmann)</desc>
+            <k_factor>21</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="4">
+            <desc>1 3/4 Turn Positive Spin</desc>
+            <k_factor>13</k_factor>
+            <score>2.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>16</k_factor>
+            <score>6.5</score>
+         </figure>
+         <figure index="6">
+            <desc>Reverse 1/2 Cuban</desc>
+            <k_factor>22</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Outside / Inside Loop</desc>
+            <k_factor>16</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reversing P-Loop</desc>
+            <k_factor>21</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Q-Loop</desc>
+            <k_factor>25</k_factor>
+            <score>7.5</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>6</k_factor>
+            <score>8.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>6</k_factor>
+            <score>7.0</score>
+         </figure>
+      </flight>
+      <flight round="2" sequence="1" ksum="1600,0" score="1600,0">
+         <figure index="0">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>26</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>30</k_factor>
+            <score>8.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Reverse 5/8 Vertical Loop (Teardrop)</desc>
+            <k_factor>25</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Inside Loop (Immelmann)</desc>
+            <k_factor>21</k_factor>
+            <score>8.0</score>
+         </figure>
+         <figure index="4">
+            <desc>1 3/4 Turn Positive Spin</desc>
+            <k_factor>13</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>16</k_factor>
+            <score>9.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Reverse 1/2 Cuban</desc>
+            <k_factor>22</k_factor>
+            <score>8.5</score>
+         </figure>
+         <figure index="7">
+            <desc>Outside / Inside Loop</desc>
+            <k_factor>16</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reversing P-Loop</desc>
+            <k_factor>21</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Q-Loop</desc>
+            <k_factor>25</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>6</k_factor>
+            <score>8.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>6</k_factor>
+            <score>8.0</score>
+         </figure>
+      </flight>
+      <flight round="2" sequence="2" ksum="1510,5" score="1510,5">
+         <figure index="0">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>26</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>30</k_factor>
+            <score>8.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Reverse 5/8 Vertical Loop (Teardrop)</desc>
+            <k_factor>25</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Inside Loop (Immelmann)</desc>
+            <k_factor>21</k_factor>
+            <score>6.5</score>
+         </figure>
+         <figure index="4">
+            <desc>1 3/4 Turn Positive Spin</desc>
+            <k_factor>13</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>16</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Reverse 1/2 Cuban</desc>
+            <k_factor>22</k_factor>
+            <score>8.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Outside / Inside Loop</desc>
+            <k_factor>16</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reversing P-Loop</desc>
+            <k_factor>21</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Q-Loop</desc>
+            <k_factor>25</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>6</k_factor>
+            <score>8.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>6</k_factor>
+            <score>8.0</score>
+         </figure>
+      </flight>
+      <flight round="3" sequence="1" ksum="1410,0" score="1410,0">
+         <figure index="0">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>26</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>30</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Reverse 5/8 Vertical Loop (Teardrop)</desc>
+            <k_factor>25</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Inside Loop (Immelmann)</desc>
+            <k_factor>21</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="4">
+            <desc>1 3/4 Turn Positive Spin</desc>
+            <k_factor>13</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>16</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Reverse 1/2 Cuban</desc>
+            <k_factor>22</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Outside / Inside Loop</desc>
+            <k_factor>16</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reversing P-Loop</desc>
+            <k_factor>21</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Q-Loop</desc>
+            <k_factor>25</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>6</k_factor>
+            <score>8.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>6</k_factor>
+            <score>7.0</score>
+         </figure>
+      </flight>
+   </section>
+   <section type="KNOWN" start_round="1" end_round="3" judge_sheet="3">
+      <flight round="1" sequence="1" ksum="722,0" score="722,0">
+         <figure index="0">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>26</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>30</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Reverse 5/8 Vertical Loop (Teardrop)</desc>
+            <k_factor>25</k_factor>
+            <score>2.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Inside Loop (Immelmann)</desc>
+            <k_factor>21</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="4">
+            <desc>1 3/4 Turn Positive Spin</desc>
+            <k_factor>13</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>16</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Reverse 1/2 Cuban</desc>
+            <k_factor>22</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Outside / Inside Loop</desc>
+            <k_factor>16</k_factor>
+            <score>2.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reversing P-Loop</desc>
+            <k_factor>21</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Q-Loop</desc>
+            <k_factor>25</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>6</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>6</k_factor>
+            <score>3.0</score>
+         </figure>
+      </flight>
+      <flight round="1" sequence="2" ksum="669,0" score="669,0">
+         <figure index="0">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>26</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>30</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Reverse 5/8 Vertical Loop (Teardrop)</desc>
+            <k_factor>25</k_factor>
+            <score>2.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Inside Loop (Immelmann)</desc>
+            <k_factor>21</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="4">
+            <desc>1 3/4 Turn Positive Spin</desc>
+            <k_factor>13</k_factor>
+            <score>2.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>16</k_factor>
+            <score>2.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Reverse 1/2 Cuban</desc>
+            <k_factor>22</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Outside / Inside Loop</desc>
+            <k_factor>16</k_factor>
+            <score>2.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reversing P-Loop</desc>
+            <k_factor>21</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Q-Loop</desc>
+            <k_factor>25</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>6</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>6</k_factor>
+            <score>3.0</score>
+         </figure>
+      </flight>
+      <flight round="2" sequence="1" ksum="1068,0" score="1068,0">
+         <figure index="0">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>26</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>30</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Reverse 5/8 Vertical Loop (Teardrop)</desc>
+            <k_factor>25</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Inside Loop (Immelmann)</desc>
+            <k_factor>21</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="4">
+            <desc>1 3/4 Turn Positive Spin</desc>
+            <k_factor>13</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>16</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Reverse 1/2 Cuban</desc>
+            <k_factor>22</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Outside / Inside Loop</desc>
+            <k_factor>16</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reversing P-Loop</desc>
+            <k_factor>21</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Q-Loop</desc>
+            <k_factor>25</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>6</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>6</k_factor>
+            <score>5.0</score>
+         </figure>
+      </flight>
+      <flight round="2" sequence="2" ksum="825,0" score="825,0">
+         <figure index="0">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>26</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>30</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Reverse 5/8 Vertical Loop (Teardrop)</desc>
+            <k_factor>25</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Inside Loop (Immelmann)</desc>
+            <k_factor>21</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="4">
+            <desc>1 3/4 Turn Positive Spin</desc>
+            <k_factor>13</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>16</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Reverse 1/2 Cuban</desc>
+            <k_factor>22</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Outside / Inside Loop</desc>
+            <k_factor>16</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reversing P-Loop</desc>
+            <k_factor>21</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Q-Loop</desc>
+            <k_factor>25</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>6</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>6</k_factor>
+            <score>5.0</score>
+         </figure>
+      </flight>
+      <flight round="3" sequence="1" ksum="1042,0" score="1042,0">
+         <figure index="0">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>26</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>30</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Reverse 5/8 Vertical Loop (Teardrop)</desc>
+            <k_factor>25</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Inside Loop (Immelmann)</desc>
+            <k_factor>21</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="4">
+            <desc>1 3/4 Turn Positive Spin</desc>
+            <k_factor>13</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>16</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Reverse 1/2 Cuban</desc>
+            <k_factor>22</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Outside / Inside Loop</desc>
+            <k_factor>16</k_factor>
+            <score>2.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reversing P-Loop</desc>
+            <k_factor>21</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Q-Loop</desc>
+            <k_factor>25</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>6</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>6</k_factor>
+            <score>5.0</score>
+         </figure>
+      </flight>
+   </section>
+   <section type="KNOWN" start_round="1" end_round="3" judge_sheet="4">
+      <flight round="1" sequence="1" ksum="680,0" score="680,0">
+         <figure index="0">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>26</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>30</k_factor>
+            <score>2.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Reverse 5/8 Vertical Loop (Teardrop)</desc>
+            <k_factor>25</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Inside Loop (Immelmann)</desc>
+            <k_factor>21</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="4">
+            <desc>1 3/4 Turn Positive Spin</desc>
+            <k_factor>13</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>16</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Reverse 1/2 Cuban</desc>
+            <k_factor>22</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Outside / Inside Loop</desc>
+            <k_factor>16</k_factor>
+            <score>1.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reversing P-Loop</desc>
+            <k_factor>21</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Q-Loop</desc>
+            <k_factor>25</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>6</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>6</k_factor>
+            <score>6.0</score>
+         </figure>
+      </flight>
+      <flight round="1" sequence="2" ksum="522,0" score="522,0">
+         <figure index="0">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>26</k_factor>
+            <score>2.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>30</k_factor>
+            <score>1.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Reverse 5/8 Vertical Loop (Teardrop)</desc>
+            <k_factor>25</k_factor>
+            <score>2.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Inside Loop (Immelmann)</desc>
+            <k_factor>21</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="4">
+            <desc>1 3/4 Turn Positive Spin</desc>
+            <k_factor>13</k_factor>
+            <score>1.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>16</k_factor>
+            <score>2.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Reverse 1/2 Cuban</desc>
+            <k_factor>22</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Outside / Inside Loop</desc>
+            <k_factor>16</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reversing P-Loop</desc>
+            <k_factor>21</k_factor>
+            <score>2.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Q-Loop</desc>
+            <k_factor>25</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>6</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>6</k_factor>
+            <score>6.0</score>
+         </figure>
+      </flight>
+      <flight round="2" sequence="1" ksum="682,0" score="682,0">
+         <figure index="0">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>26</k_factor>
+            <score>1.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>30</k_factor>
+            <score>2.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Reverse 5/8 Vertical Loop (Teardrop)</desc>
+            <k_factor>25</k_factor>
+            <score>2.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Inside Loop (Immelmann)</desc>
+            <k_factor>21</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="4">
+            <desc>1 3/4 Turn Positive Spin</desc>
+            <k_factor>13</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>16</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Reverse 1/2 Cuban</desc>
+            <k_factor>22</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Outside / Inside Loop</desc>
+            <k_factor>16</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reversing P-Loop</desc>
+            <k_factor>21</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Q-Loop</desc>
+            <k_factor>25</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>6</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>6</k_factor>
+            <score>7.0</score>
+         </figure>
+      </flight>
+      <flight round="2" sequence="2" ksum="688,0" score="688,0">
+         <figure index="0">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>26</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>30</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Reverse 5/8 Vertical Loop (Teardrop)</desc>
+            <k_factor>25</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Inside Loop (Immelmann)</desc>
+            <k_factor>21</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="4">
+            <desc>1 3/4 Turn Positive Spin</desc>
+            <k_factor>13</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>16</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Reverse 1/2 Cuban</desc>
+            <k_factor>22</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Outside / Inside Loop</desc>
+            <k_factor>16</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reversing P-Loop</desc>
+            <k_factor>21</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Q-Loop</desc>
+            <k_factor>25</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>6</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>6</k_factor>
+            <score>7.0</score>
+         </figure>
+      </flight>
+      <flight round="3" sequence="1" ksum="728,0" score="728,0">
+         <figure index="0">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>26</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>30</k_factor>
+            <score>2.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Reverse 5/8 Vertical Loop (Teardrop)</desc>
+            <k_factor>25</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Inside Loop (Immelmann)</desc>
+            <k_factor>21</k_factor>
+            <score>1.0</score>
+         </figure>
+         <figure index="4">
+            <desc>1 3/4 Turn Positive Spin</desc>
+            <k_factor>13</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>16</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Reverse 1/2 Cuban</desc>
+            <k_factor>22</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Outside / Inside Loop</desc>
+            <k_factor>16</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reversing P-Loop</desc>
+            <k_factor>21</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Q-Loop</desc>
+            <k_factor>25</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>6</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>6</k_factor>
+            <score>7.0</score>
+         </figure>
+      </flight>
+   </section>
+   <section type="UNKNOWN" start_round="1" end_round="1" judge_sheet="1">
+      <flight round="1" ksum="1213,0" score="1213,0">
+         <figure index="0">
+            <k_factor>19</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="1">
+            <k_factor>22</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="2">
+            <k_factor>18</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="3">
+            <k_factor>11</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="4">
+            <k_factor>13</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="5">
+            <k_factor>13</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="6">
+            <k_factor>23</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="7">
+            <k_factor>23</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="8">
+            <k_factor>14</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="9">
+            <k_factor>31</k_factor>
+            <score>7.0</score>
+         </figure>
+      </flight>
+   </section>
+   <section type="UNKNOWN" start_round="1" end_round="1" judge_sheet="2">
+      <flight round="1" ksum="1254,5" score="1254,5">
+         <figure index="0">
+            <k_factor>19</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="1">
+            <k_factor>22</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="2">
+            <k_factor>18</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="3">
+            <k_factor>11</k_factor>
+            <score>6.5</score>
+         </figure>
+         <figure index="4">
+            <k_factor>13</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="5">
+            <k_factor>13</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="6">
+            <k_factor>23</k_factor>
+            <score>6.5</score>
+         </figure>
+         <figure index="7">
+            <k_factor>23</k_factor>
+            <score>6.5</score>
+         </figure>
+         <figure index="8">
+            <k_factor>14</k_factor>
+            <score>6.5</score>
+         </figure>
+         <figure index="9">
+            <k_factor>31</k_factor>
+            <score>7.0</score>
+         </figure>
+      </flight>
+   </section>
+   <section type="UNKNOWN" start_round="1" end_round="1" judge_sheet="3">
+      <flight round="1" ksum="851,0" score="851,0">
+         <figure index="0">
+            <k_factor>19</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="1">
+            <k_factor>22</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="2">
+            <k_factor>18</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="3">
+            <k_factor>11</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="4">
+            <k_factor>13</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="5">
+            <k_factor>13</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="6">
+            <k_factor>23</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="7">
+            <k_factor>23</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="8">
+            <k_factor>14</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="9">
+            <k_factor>31</k_factor>
+            <score>4.0</score>
+         </figure>
+      </flight>
+   </section>
+   <section type="UNKNOWN" start_round="1" end_round="1" judge_sheet="4">
+      <flight round="1" ksum="620,0" score="620,0">
+         <figure index="0">
+            <k_factor>19</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="1">
+            <k_factor>22</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="2">
+            <k_factor>18</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="3">
+            <k_factor>11</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="4">
+            <k_factor>13</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="5">
+            <k_factor>13</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="6">
+            <k_factor>23</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="7">
+            <k_factor>23</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="8">
+            <k_factor>14</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="9">
+            <k_factor>31</k_factor>
+            <score>0.0</score>
+         </figure>
+      </flight>
+   </section>
+</report>

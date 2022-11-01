@@ -1,0 +1,150 @@
+"This file was written by the 'Score!' program"
+"'Score!' is a program for scorekeeping aerobatic contests"
+""
+"Contest Name:","copa ACONCAGUA 2da Fecha Chile"
+"Type:","Pilot Report"
+"Timestamp:","1-nov-2022 10:09"
+"Pilot:","MARTIN COSER / CACH #401 / Advanced / ARGENTINA"
+""
+"Known Flights: Rounds 1-3, Judge/Sheet #1"
+" "
+"R1/S1","R1/S2","R2/S1","R2/S2","R3/S1"
+"1: Reversing Loop (k=39)",8.0,8.0,7.0,7.0,7.5
+"2: Stall Turn (Hammerhead) (k=45)",8.0,7.0,8.0,7.5,8.0
+"3: Sharks Tooth (k=49)",7.0,8.0,7.0,7.0,8.0
+"4: Rolling Turn (k=31)",7.0,5.0,5.0,6.0,6.0
+"5: Half Loop (Immelmann) (k=39)",7.0,8.0,6.0,7.5,6.5
+"6: Down Humpty Bump (k=43)",8.0,7.0,6.0,7.0,7.0
+"7: Down Loop (k=19)",7.0,7.0,6.5,7.0,6.0
+"8: 45 Degree Down Line (k=25)",7.0,8.0,7.5,7.5,7.5
+"9: P-Loop (k=40)",7.0,7.0,6.5,7.0,6.0
+"10: Q-Loop (k=27)",6.0,8.0,7.0,7.0,7.0
+"11: Sound (k=12)",8.0,8.0,8.0,8.0,8.0
+"12: Airspace Control (k=12)",9.0,8.0,7.0,8.0,8.0
+"Simple Sum",89.0,89.0,81.5,86.5,85.5
+"K-Factored Sum",2803.0,2808.0,2563.0,2714.5,2707.5
+"Penalty",0.0,0.0,0.0,0.0,0.0
+"Flight Score",2803.0,2808.0,2563.0,2714.5,2707.5
+"Known Flights: Rounds 1-3, Judge/Sheet #2"
+" "
+"R1/S1","R1/S2","R2/S1","R2/S2","R3/S1"
+"1: Reversing Loop (k=39)",6.5,6.0,6.0,5.0,5.5
+"2: Stall Turn (Hammerhead) (k=45)",5.5,4.5,5.0,5.0,5.5
+"3: Sharks Tooth (k=49)",6.5,5.0,3.5,5.5,5.5
+"4: Rolling Turn (k=31)",5.0,4.5,3.5,4.0,4.0
+"5: Half Loop (Immelmann) (k=39)",6.0,5.5,5.0,6.0,6.0
+"6: Down Humpty Bump (k=43)",4.5,4.0,4.0,5.0,4.0
+"7: Down Loop (k=19)",5.0,4.5,0.0,4.5,5.0
+"8: 45 Degree Down Line (k=25)",7.0,7.0,6.0,6.5,6.0
+"9: P-Loop (k=40)",6.5,6.0,4.0,4.5,5.5
+"10: Q-Loop (k=27)",5.5,6.0,5.0,6.0,4.5
+"11: Sound (k=12)",8.0,8.0,8.0,8.0,8.0
+"12: Airspace Control (k=12)",8.0,8.0,6.0,8.0,8.0
+"Simple Sum",74.0,69.0,56.0,68.0,67.5
+"K-Factored Sum",2272.5,2062.0,1719.0,2044.5,2040.0
+"Penalty",0.0,0.0,0.0,0.0,0.0
+"Flight Score",2272.5,2062.0,1719.0,2044.5,2040.0
+"Known Flights: Rounds 1-3, Judge/Sheet #3"
+" "
+"R1/S1","R1/S2","R2/S1","R2/S2","R3/S1"
+"1: Reversing Loop (k=39)",7.5,7.0,8.0,5.5,6.5
+"2: Stall Turn (Hammerhead) (k=45)",7.5,7.5,5.5,7.0,7.0
+"3: Sharks Tooth (k=49)",6.5,5.0,5.0,7.0,5.5
+"4: Rolling Turn (k=31)",4.5,4.0,2.0,4.0,3.0
+"5: Half Loop (Immelmann) (k=39)",7.0,4.5,5.5,6.0,5.5
+"6: Down Humpty Bump (k=43)",6.5,3.0,4.5,4.0,4.0
+"7: Down Loop (k=19)",5.5,3.0,4.0,5.0,3.0
+"8: 45 Degree Down Line (k=25)",7.5,5.5,6.0,6.5,6.5
+"9: P-Loop (k=40)",6.0,3.5,4.5,5.0,6.0
+"10: Q-Loop (k=27)",6.5,6.5,6.5,6.5,4.5
+"11: Sound (k=12)",7.0,7.0,7.0,7.0,6.0
+"12: Airspace Control (k=12)",7.0,7.0,7.0,7.0,6.0
+"Simple Sum",79.0,63.5,65.5,70.5,63.5
+"K-Factored Sum",2516.0,1962.0,2024.0,2203.5,2042.5
+"Penalty",0.0,0.0,0.0,0.0,0.0
+"Flight Score",2516.0,1962.0,2024.0,2203.5,2042.5
+"Known Flights: Rounds 1-3, Judge/Sheet #4"
+" "
+"R1/S1","R1/S2","R2/S1","R2/S2","R3/S1"
+"1: Reversing Loop (k=39)",7.5,7.5,7.5,7.0,7.0
+"2: Stall Turn (Hammerhead) (k=45)",6.5,7.0,6.0,7.0,7.5
+"3: Sharks Tooth (k=49)",7.0,5.5,4.0,7.5,7.0
+"4: Rolling Turn (k=31)",6.5,5.5,4.5,7.0,5.5
+"5: Half Loop (Immelmann) (k=39)",7.5,7.0,6.5,7.5,6.5
+"6: Down Humpty Bump (k=43)",7.0,6.0,6.0,7.0,7.0
+"7: Down Loop (k=19)",5.5,4.5,0.0,6.0,6.5
+"8: 45 Degree Down Line (k=25)",7.5,7.0,7.5,7.5,7.0
+"9: P-Loop (k=40)",7.0,6.0,5.5,6.0,7.0
+"10: Q-Loop (k=27)",7.0,6.0,7.0,7.5,6.0
+"11: Sound (k=12)",7.0,7.0,8.0,8.0,8.0
+"12: Airspace Control (k=12)",9.0,9.0,7.0,7.0,7.0
+"Simple Sum",85.0,78.0,69.5,85.0,82.0
+"K-Factored Sum",2676.0,2433.0,2186.0,2690.0,2599.0
+"Penalty",0.0,0.0,0.0,0.0,0.0
+"Flight Score",2676.0,2433.0,2186.0,2690.0,2599.0
+""
+"Unknown Flights: Round 1, Judge/Sheet #1"
+" ","R1"
+"1:  (k=35)",7.5
+"2:  (k=49)",6.5
+"3:  (k=18)",8.0
+"4:  (k=31)",6.0
+"5:  (k=31)",6.0
+"6:  (k=44)",3.0
+"7:  (k=55)",6.0
+"8:  (k=21)",7.5
+"9:  (k=27)",7.0
+"10:  (k=26)",7.0
+"Simple Sum",64.5
+"K-Factored Sum",2087.5
+"Penalty",0.0
+"Flight Score",2087.5
+"Unknown Flights: Round 1, Judge/Sheet #2"
+" ","R1"
+"1:  (k=35)",6.5
+"2:  (k=49)",5.0
+"3:  (k=18)",6.0
+"4:  (k=31)",4.0
+"5:  (k=31)",5.5
+"6:  (k=44)",4.0
+"7:  (k=55)",5.0
+"8:  (k=21)",6.0
+"9:  (k=27)",5.5
+"10:  (k=26)",5.5
+"Simple Sum",53.0
+"K-Factored Sum",1743.5
+"Penalty",0.0
+"Flight Score",1743.5
+"Unknown Flights: Round 1, Judge/Sheet #3"
+" ","R1"
+"1:  (k=35)",7.5
+"2:  (k=49)",7.0
+"3:  (k=18)",7.5
+"4:  (k=31)",5.0
+"5:  (k=31)",3.5
+"6:  (k=44)",4.0
+"7:  (k=55)",5.5
+"8:  (k=21)",7.0
+"9:  (k=27)",7.5
+"10:  (k=26)",7.5
+"Simple Sum",62.0
+"K-Factored Sum",2027.0
+"Penalty",0.0
+"Flight Score",2027.0
+"Unknown Flights: Round 1, Judge/Sheet #4"
+" ","R1"
+"1:  (k=35)",7.0
+"2:  (k=49)",6.0
+"3:  (k=18)",7.5
+"4:  (k=31)",6.0
+"5:  (k=31)",6.0
+"6:  (k=44)",5.0
+"7:  (k=55)",7.0
+"8:  (k=21)",6.5
+"9:  (k=27)",7.0
+"10:  (k=26)",7.5
+"Simple Sum",65.5
+"K-Factored Sum",2171.5
+"Penalty",0.0
+"Flight Score",2171.5
+""

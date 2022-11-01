@@ -1,0 +1,222 @@
+"This file was written by the 'Score!' program"
+"'Score!' is a program for scorekeeping aerobatic contests"
+""
+"Contest Name:","copa ACONCAGUA 2da Fecha Chile"
+"Type:","Pilot Report"
+"Timestamp:","1-nov-2022 10:09"
+"Pilot:","NICOLAS ROZAS / CACH #402 / Advanced / CHILE"
+""
+"Known Flights: Rounds 1-3, Judge/Sheet #1"
+" "
+"R1/S1","R1/S2","R2/S1","R2/S2","R3/S1"
+"1: Reversing Loop (k=39)",3.0,7.0,6.0,6.0,7.0
+"2: Stall Turn (Hammerhead) (k=45)",7.0,6.0,5.0,7.0,8.0
+"3: Sharks Tooth (k=49)",6.0,7.0,7.0,7.0,8.0
+"4: Rolling Turn (k=31)",6.0,6.0,5.5,5.5,6.0
+"5: Half Loop (Immelmann) (k=39)",7.0,7.0,5.0,7.0,5.5
+"6: Down Humpty Bump (k=43)",4.0,3.0,3.0,4.0,8.0
+"7: Down Loop (k=19)",7.0,7.0,6.0,6.5,5.0
+"8: 45 Degree Down Line (k=25)",5.0,4.0,7.0,6.0,6.5
+"9: P-Loop (k=40)",6.0,7.0,7.0,5.0,6.0
+"10: Q-Loop (k=27)",7.0,6.0,6.5,6.0,6.0
+"11: Sound (k=12)",7.0,7.0,8.0,8.0,8.0
+"12: Airspace Control (k=12)",7.0,8.0,7.0,6.0,8.0
+"Simple Sum",72.0,75.0,73.0,74.0,82.0
+"K-Factored Sum",2212.0,2329.0,2221.0,2311.0,2621.0
+"Penalty",0.0,0.0,0.0,0.0,0.0
+"Flight Score",2212.0,2329.0,2221.0,2311.0,2621.0
+"Known Flights: Rounds 1-3, Judge/Sheet #2"
+" "
+"R1/S1","R1/S2","R2/S1","R2/S2","R3/S1"
+"1: Reversing Loop (k=39)",4.0,4.5,4.0,4.0,4.5
+"2: Stall Turn (Hammerhead) (k=45)",4.5,4.0,5.5,5.5,4.5
+"3: Sharks Tooth (k=49)",5.0,5.0,5.5,5.5,5.5
+"4: Rolling Turn (k=31)",5.5,5.5,4.5,6.0,5.0
+"5: Half Loop (Immelmann) (k=39)",6.0,6.0,4.5,5.0,5.0
+"6: Down Humpty Bump (k=43)",0.0,0.0,5.0,3.0,5.5
+"7: Down Loop (k=19)",4.5,4.0,5.0,5.0,5.5
+"8: 45 Degree Down Line (k=25)",3.5,4.0,6.0,3.0,5.0
+"9: P-Loop (k=40)",5.0,5.0,6.0,5.5,5.0
+"10: Q-Loop (k=27)",5.5,5.5,4.5,5.0,6.0
+"11: Sound (k=12)",8.0,8.0,8.0,8.0,8.0
+"12: Airspace Control (k=12)",8.0,8.0,8.0,8.0,8.0
+"Simple Sum",59.5,59.5,66.5,63.5,67.5
+"K-Factored Sum",1721.5,1721.5,2001.5,1900.0,2017.5
+"Penalty",0.0,0.0,0.0,0.0,0.0
+"Flight Score",1721.5,1721.5,2001.5,1900.0,2017.5
+"Known Flights: Rounds 1-3, Judge/Sheet #3"
+" "
+"R1/S1","R1/S2","R2/S1","R2/S2","R3/S1"
+"1: Reversing Loop (k=39)",2.0,4.0,3.5,4.5,5.0
+"2: Stall Turn (Hammerhead) (k=45)",5.5,4.5,4.0,5.0,3.5
+"3: Sharks Tooth (k=49)",2.0,6.5,3.0,6.5,6.5
+"4: Rolling Turn (k=31)",3.5,6.5,4.0,5.0,5.5
+"5: Half Loop (Immelmann) (k=39)",4.0,6.0,2.5,6.0,6.0
+"6: Down Humpty Bump (k=43)",0.0,0.0,0.0,0.0,0.0
+"7: Down Loop (k=19)",0.0,0.0,3.0,4.5,4.0
+"8: 45 Degree Down Line (k=25)",3.5,3.0,5.0,0.0,4.0
+"9: P-Loop (k=40)",3.0,4.5,4.0,3.5,5.5
+"10: Q-Loop (k=27)",5.0,5.0,4.0,5.0,6.0
+"11: Sound (k=12)",7.0,7.0,6.0,6.0,7.0
+"12: Airspace Control (k=12)",7.0,7.0,4.0,4.0,4.0
+"Simple Sum",42.5,54.0,43.0,50.0,57.0
+"K-Factored Sum",1198.5,1670.5,1255.0,1588.5,1765.5
+"Penalty",0.0,0.0,0.0,0.0,0.0
+"Flight Score",1198.5,1670.5,1255.0,1588.5,1765.5
+"Known Flights: Rounds 1-3, Judge/Sheet #4"
+" "
+"R1/S1","R1/S2","R2/S1","R2/S2","R3/S1"
+"1: Reversing Loop (k=39)",3.0,6.5,6.0,4.5,7.0
+"2: Stall Turn (Hammerhead) (k=45)",6.0,5.5,6.0,5.5,5.5
+"3: Sharks Tooth (k=49)",4.5,7.0,5.5,7.0,6.0
+"4: Rolling Turn (k=31)",6.5,7.0,5.5,5.5,6.5
+"5: Half Loop (Immelmann) (k=39)",6.0,6.0,5.0,7.0,7.5
+"6: Down Humpty Bump (k=43)",4.0,0.0,0.0,4.0,6.0
+"7: Down Loop (k=19)",5.5,5.0,5.5,5.5,4.0
+"8: 45 Degree Down Line (k=25)",4.5,3.5,6.0,0.0,6.0
+"9: P-Loop (k=40)",5.0,6.0,7.0,4.0,6.0
+"10: Q-Loop (k=27)",5.5,7.0,5.5,6.0,6.0
+"11: Sound (k=12)",8.0,8.0,8.0,8.0,8.0
+"12: Airspace Control (k=12)",7.0,7.0,7.0,7.0,7.0
+"Simple Sum",65.5,68.5,67.0,64.0,75.5
+"K-Factored Sum",1960.5,2086.5,2002.0,1988.0,2374.5
+"Penalty",0.0,0.0,0.0,0.0,0.0
+"Flight Score",1960.5,2086.5,2002.0,1988.0,2374.5
+""
+"Unknown Flights: Round 1, Judge/Sheet #1"
+" ","R1"
+"1:  (k=35)",7.0
+"2:  (k=49)",4.0
+"3:  (k=18)",7.5
+"4:  (k=31)",5.0
+"5:  (k=31)",7.0
+"6:  (k=44)",5.0
+"7:  (k=55)",6.0
+"8:  (k=21)",8.0
+"9:  (k=27)",0.0
+"10:  (k=26)",6.0
+"Simple Sum",55.5
+"K-Factored Sum",1822.0
+"Penalty",0.0
+"Flight Score",1822.0
+"Unknown Flights: Round 1, Judge/Sheet #2"
+" ","R1"
+"1:  (k=35)",5.0
+"2:  (k=49)",4.5
+"3:  (k=18)",5.5
+"4:  (k=31)",5.0
+"5:  (k=31)",5.0
+"6:  (k=44)",4.0
+"7:  (k=55)",4.5
+"8:  (k=21)",5.5
+"9:  (k=27)",3.5
+"10:  (k=26)",4.5
+"Simple Sum",47.0
+"K-Factored Sum",1555.0
+"Penalty",0.0
+"Flight Score",1555.0
+"Unknown Flights: Round 1, Judge/Sheet #3"
+" ","R1"
+"1:  (k=35)",5.0
+"2:  (k=49)",4.0
+"3:  (k=18)",4.0
+"4:  (k=31)",3.5
+"5:  (k=31)",5.0
+"6:  (k=44)",3.0
+"7:  (k=55)",4.0
+"8:  (k=21)",7.0
+"9:  (k=27)",3.0
+"10:  (k=26)",6.0
+"Simple Sum",44.5
+"K-Factored Sum",1442.5
+"Penalty",0.0
+"Flight Score",1442.5
+"Unknown Flights: Round 1, Judge/Sheet #4"
+" ","R1"
+"1:  (k=35)",5.0
+"2:  (k=49)",5.0
+"3:  (k=18)",7.0
+"4:  (k=31)",4.0
+"5:  (k=31)",5.5
+"6:  (k=44)",5.0
+"7:  (k=55)",7.0
+"8:  (k=21)",7.5
+"9:  (k=27)",7.5
+"10:  (k=26)",5.0
+"Simple Sum",58.5
+"K-Factored Sum",1935.5
+"Penalty",0.0
+"Flight Score",1935.5
+""
+"Freestyle Flights: Round 1, Judge/Sheet #1"
+" ","R1"
+"1: A: Use of Total Flight Area (k=20)",6.0
+"2: B: Originality and Complexity (k=20)",5.0
+"3: C: Precision (k=20)",7.0
+"4: D: Artistic Impression and Presentation (k=30)",5.0
+"5: E: Choreography (k=30)",5.0
+"Simple Sum",28.0
+"Time of flight","4:00"
+"K-Factored Sum",660.0
+"Penalty",0.0
+"Flight Score",660.0
+"Freestyle Flights: Round 1, Judge/Sheet #2"
+" ","R1"
+"1: A: Use of Total Flight Area (k=20)",10.0
+"2: B: Originality and Complexity (k=20)",9.0
+"3: C: Precision (k=20)",9.0
+"4: D: Artistic Impression and Presentation (k=30)",8.0
+"5: E: Choreography (k=30)",8.0
+"Simple Sum",44.0
+"Time of flight","4:00"
+"K-Factored Sum",1040.0
+"Penalty",0.0
+"Flight Score",1040.0
+"Freestyle Flights: Round 1, Judge/Sheet #3"
+" ","R1"
+"1: A: Use of Total Flight Area (k=20)",8.0
+"2: B: Originality and Complexity (k=20)",8.0
+"3: C: Precision (k=20)",7.0
+"4: D: Artistic Impression and Presentation (k=30)",8.0
+"5: E: Choreography (k=30)",6.0
+"Simple Sum",37.0
+"Time of flight","4:00"
+"K-Factored Sum",880.0
+"Penalty",0.0
+"Flight Score",880.0
+"Freestyle Flights: Round 1, Judge/Sheet #4"
+" ","R1"
+"1: A: Use of Total Flight Area (k=20)",7.0
+"2: B: Originality and Complexity (k=20)",6.0
+"3: C: Precision (k=20)",6.0
+"4: D: Artistic Impression and Presentation (k=30)",7.0
+"5: E: Choreography (k=30)",7.0
+"Simple Sum",33.0
+"Time of flight","4:00"
+"K-Factored Sum",800.0
+"Penalty",0.0
+"Flight Score",800.0
+"Freestyle Flights: Round 1, Judge/Sheet #5"
+" ","R1"
+"1: A: Use of Total Flight Area (k=20)",0.0
+"2: B: Originality and Complexity (k=20)",0.0
+"3: C: Precision (k=20)",0.0
+"4: D: Artistic Impression and Presentation (k=30)",0.0
+"5: E: Choreography (k=30)",0.0
+"Simple Sum",0.0
+"Time of flight","4:00"
+"K-Factored Sum",0.0
+"Penalty",0.0
+"Flight Score",0.0
+"Freestyle Flights: Round 1, Judge/Sheet #6"
+" ","R1"
+"1: A: Use of Total Flight Area (k=20)",7.0
+"2: B: Originality and Complexity (k=20)",7.0
+"3: C: Precision (k=20)",7.0
+"4: D: Artistic Impression and Presentation (k=30)",7.0
+"5: E: Choreography (k=30)",7.0
+"Simple Sum",35.0
+"Time of flight","4:00"
+"K-Factored Sum",840.0
+"Penalty",0.0
+"Flight Score",840.0

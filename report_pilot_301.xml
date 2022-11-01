@@ -1,0 +1,1438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This file was written by the 'Score!' program -->
+<!-- 'Score!' is a program for scorekeeping aerobatic contests -->
+<report>
+   <contest_name>copa ACONCAGUA 2da Fecha Chile</contest_name>
+   <type>Pilot Report</type>
+   <timestamp>1-nov-2022 10:09</timestamp>
+   <pilot id="301">
+      <name>CLAUDIO ROJAS</name>
+      <address2>CHILE</address2>
+      <missing_pilot_panel>false</missing_pilot_panel>
+      <active>true</active>
+      <freestyle>false</freestyle>
+      <class type="INTERMEDIATE"/>
+      <frequency>SS</frequency>
+      <ama_number>301</ama_number>
+      <imac_number>301</imac_number>
+   </pilot>
+   <section type="KNOWN" start_round="1" end_round="3" judge_sheet="1">
+      <flight round="1" sequence="1" ksum="1813,0" score="1813,0">
+         <figure index="0">
+            <desc>P-Loop</desc>
+            <k_factor>29</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal (Lay Down) Humpty Bump</desc>
+            <k_factor>27</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Vertical 5/8 Loop (Tear Drop)</desc>
+            <k_factor>29</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Outside Loop (Immelmann)</desc>
+            <k_factor>32</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="4">
+            <desc>Down Humpty Bump</desc>
+            <k_factor>35</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Vertical Downline</desc>
+            <k_factor>18</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Inside / Outside Loop</desc>
+            <k_factor>19</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>39</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>33</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="9">
+            <desc>90 Degree Inverted 1 Turn Roller</desc>
+            <k_factor>15</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>9</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>9</k_factor>
+            <score>7.0</score>
+         </figure>
+      </flight>
+      <flight round="1" sequence="2" ksum="1798,0" score="1798,0">
+         <figure index="0">
+            <desc>P-Loop</desc>
+            <k_factor>29</k_factor>
+            <score>8.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal (Lay Down) Humpty Bump</desc>
+            <k_factor>27</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Vertical 5/8 Loop (Tear Drop)</desc>
+            <k_factor>29</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Outside Loop (Immelmann)</desc>
+            <k_factor>32</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="4">
+            <desc>Down Humpty Bump</desc>
+            <k_factor>35</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Vertical Downline</desc>
+            <k_factor>18</k_factor>
+            <score>8.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Inside / Outside Loop</desc>
+            <k_factor>19</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>39</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>33</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="9">
+            <desc>90 Degree Inverted 1 Turn Roller</desc>
+            <k_factor>15</k_factor>
+            <score>8.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>9</k_factor>
+            <score>6.0</score>
+         </figure>
+      </flight>
+      <flight round="2" sequence="1" ksum="1891,5" score="1891,5">
+         <figure index="0">
+            <desc>P-Loop</desc>
+            <k_factor>29</k_factor>
+            <score>8.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal (Lay Down) Humpty Bump</desc>
+            <k_factor>27</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Vertical 5/8 Loop (Tear Drop)</desc>
+            <k_factor>29</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Outside Loop (Immelmann)</desc>
+            <k_factor>32</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="4">
+            <desc>Down Humpty Bump</desc>
+            <k_factor>35</k_factor>
+            <score>7.5</score>
+         </figure>
+         <figure index="5">
+            <desc>Vertical Downline</desc>
+            <k_factor>18</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Inside / Outside Loop</desc>
+            <k_factor>19</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>39</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>33</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="9">
+            <desc>90 Degree Inverted 1 Turn Roller</desc>
+            <k_factor>15</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>9</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>9</k_factor>
+            <score>8.0</score>
+         </figure>
+      </flight>
+      <flight round="2" sequence="2" ksum="1511,5" score="1511,5">
+         <figure index="0">
+            <desc>P-Loop</desc>
+            <k_factor>29</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal (Lay Down) Humpty Bump</desc>
+            <k_factor>27</k_factor>
+            <score>6.5</score>
+         </figure>
+         <figure index="2">
+            <desc>Vertical 5/8 Loop (Tear Drop)</desc>
+            <k_factor>29</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Outside Loop (Immelmann)</desc>
+            <k_factor>32</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="4">
+            <desc>Down Humpty Bump</desc>
+            <k_factor>35</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Vertical Downline</desc>
+            <k_factor>18</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Inside / Outside Loop</desc>
+            <k_factor>19</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>39</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>33</k_factor>
+            <score>6.5</score>
+         </figure>
+         <figure index="9">
+            <desc>90 Degree Inverted 1 Turn Roller</desc>
+            <k_factor>15</k_factor>
+            <score>6.5</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>9</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>9</k_factor>
+            <score>7.0</score>
+         </figure>
+      </flight>
+      <flight round="3" sequence="1" ksum="1814,0" score="1814,0">
+         <figure index="0">
+            <desc>P-Loop</desc>
+            <k_factor>29</k_factor>
+            <score>7.5</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal (Lay Down) Humpty Bump</desc>
+            <k_factor>27</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Vertical 5/8 Loop (Tear Drop)</desc>
+            <k_factor>29</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Outside Loop (Immelmann)</desc>
+            <k_factor>32</k_factor>
+            <score>5.5</score>
+         </figure>
+         <figure index="4">
+            <desc>Down Humpty Bump</desc>
+            <k_factor>35</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Vertical Downline</desc>
+            <k_factor>18</k_factor>
+            <score>8.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Inside / Outside Loop</desc>
+            <k_factor>19</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>39</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>33</k_factor>
+            <score>6.5</score>
+         </figure>
+         <figure index="9">
+            <desc>90 Degree Inverted 1 Turn Roller</desc>
+            <k_factor>15</k_factor>
+            <score>8.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>9</k_factor>
+            <score>8.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>9</k_factor>
+            <score>8.0</score>
+         </figure>
+      </flight>
+   </section>
+   <section type="KNOWN" start_round="1" end_round="3" judge_sheet="2">
+      <flight round="1" sequence="1" ksum="1117,5" score="1117,5">
+         <figure index="0">
+            <desc>P-Loop</desc>
+            <k_factor>29</k_factor>
+            <score>2.5</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal (Lay Down) Humpty Bump</desc>
+            <k_factor>27</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Vertical 5/8 Loop (Tear Drop)</desc>
+            <k_factor>29</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Outside Loop (Immelmann)</desc>
+            <k_factor>32</k_factor>
+            <score>3.5</score>
+         </figure>
+         <figure index="4">
+            <desc>Down Humpty Bump</desc>
+            <k_factor>35</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Vertical Downline</desc>
+            <k_factor>18</k_factor>
+            <score>7.5</score>
+         </figure>
+         <figure index="6">
+            <desc>Inside / Outside Loop</desc>
+            <k_factor>19</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>39</k_factor>
+            <score>1.5</score>
+         </figure>
+         <figure index="8">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>33</k_factor>
+            <score>5.5</score>
+         </figure>
+         <figure index="9">
+            <desc>90 Degree Inverted 1 Turn Roller</desc>
+            <k_factor>15</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>9</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>9</k_factor>
+            <score>5.0</score>
+         </figure>
+      </flight>
+      <flight round="1" sequence="2" ksum="1385,0" score="1385,0">
+         <figure index="0">
+            <desc>P-Loop</desc>
+            <k_factor>29</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal (Lay Down) Humpty Bump</desc>
+            <k_factor>27</k_factor>
+            <score>3.5</score>
+         </figure>
+         <figure index="2">
+            <desc>Vertical 5/8 Loop (Tear Drop)</desc>
+            <k_factor>29</k_factor>
+            <score>5.5</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Outside Loop (Immelmann)</desc>
+            <k_factor>32</k_factor>
+            <score>3.5</score>
+         </figure>
+         <figure index="4">
+            <desc>Down Humpty Bump</desc>
+            <k_factor>35</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Vertical Downline</desc>
+            <k_factor>18</k_factor>
+            <score>5.5</score>
+         </figure>
+         <figure index="6">
+            <desc>Inside / Outside Loop</desc>
+            <k_factor>19</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>39</k_factor>
+            <score>4.5</score>
+         </figure>
+         <figure index="8">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>33</k_factor>
+            <score>6.5</score>
+         </figure>
+         <figure index="9">
+            <desc>90 Degree Inverted 1 Turn Roller</desc>
+            <k_factor>15</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>9</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>9</k_factor>
+            <score>6.0</score>
+         </figure>
+      </flight>
+      <flight round="2" sequence="1" ksum="1255,0" score="1255,0">
+         <figure index="0">
+            <desc>P-Loop</desc>
+            <k_factor>29</k_factor>
+            <score>5.5</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal (Lay Down) Humpty Bump</desc>
+            <k_factor>27</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Vertical 5/8 Loop (Tear Drop)</desc>
+            <k_factor>29</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Outside Loop (Immelmann)</desc>
+            <k_factor>32</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="4">
+            <desc>Down Humpty Bump</desc>
+            <k_factor>35</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Vertical Downline</desc>
+            <k_factor>18</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Inside / Outside Loop</desc>
+            <k_factor>19</k_factor>
+            <score>2.5</score>
+         </figure>
+         <figure index="7">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>39</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>33</k_factor>
+            <score>4.5</score>
+         </figure>
+         <figure index="9">
+            <desc>90 Degree Inverted 1 Turn Roller</desc>
+            <k_factor>15</k_factor>
+            <score>4.5</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>9</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>9</k_factor>
+            <score>6.0</score>
+         </figure>
+      </flight>
+      <flight round="2" sequence="2" ksum="1024,5" score="1024,5">
+         <figure index="0">
+            <desc>P-Loop</desc>
+            <k_factor>29</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal (Lay Down) Humpty Bump</desc>
+            <k_factor>27</k_factor>
+            <score>6.5</score>
+         </figure>
+         <figure index="2">
+            <desc>Vertical 5/8 Loop (Tear Drop)</desc>
+            <k_factor>29</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Outside Loop (Immelmann)</desc>
+            <k_factor>32</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="4">
+            <desc>Down Humpty Bump</desc>
+            <k_factor>35</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Vertical Downline</desc>
+            <k_factor>18</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Inside / Outside Loop</desc>
+            <k_factor>19</k_factor>
+            <score>4.5</score>
+         </figure>
+         <figure index="7">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>39</k_factor>
+            <score>2.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>33</k_factor>
+            <score>5.5</score>
+         </figure>
+         <figure index="9">
+            <desc>90 Degree Inverted 1 Turn Roller</desc>
+            <k_factor>15</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>9</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>9</k_factor>
+            <score>5.0</score>
+         </figure>
+      </flight>
+      <flight round="3" sequence="1" ksum="1446,5" score="1446,5">
+         <figure index="0">
+            <desc>P-Loop</desc>
+            <k_factor>29</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal (Lay Down) Humpty Bump</desc>
+            <k_factor>27</k_factor>
+            <score>4.5</score>
+         </figure>
+         <figure index="2">
+            <desc>Vertical 5/8 Loop (Tear Drop)</desc>
+            <k_factor>29</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Outside Loop (Immelmann)</desc>
+            <k_factor>32</k_factor>
+            <score>6.5</score>
+         </figure>
+         <figure index="4">
+            <desc>Down Humpty Bump</desc>
+            <k_factor>35</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Vertical Downline</desc>
+            <k_factor>18</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Inside / Outside Loop</desc>
+            <k_factor>19</k_factor>
+            <score>3.5</score>
+         </figure>
+         <figure index="7">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>39</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>33</k_factor>
+            <score>6.5</score>
+         </figure>
+         <figure index="9">
+            <desc>90 Degree Inverted 1 Turn Roller</desc>
+            <k_factor>15</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>9</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>9</k_factor>
+            <score>5.0</score>
+         </figure>
+      </flight>
+   </section>
+   <section type="KNOWN" start_round="1" end_round="3" judge_sheet="3">
+      <flight round="1" sequence="1" ksum="1331,5" score="1331,5">
+         <figure index="0">
+            <desc>P-Loop</desc>
+            <k_factor>29</k_factor>
+            <score>5.5</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal (Lay Down) Humpty Bump</desc>
+            <k_factor>27</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Vertical 5/8 Loop (Tear Drop)</desc>
+            <k_factor>29</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Outside Loop (Immelmann)</desc>
+            <k_factor>32</k_factor>
+            <score>4.5</score>
+         </figure>
+         <figure index="4">
+            <desc>Down Humpty Bump</desc>
+            <k_factor>35</k_factor>
+            <score>2.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Vertical Downline</desc>
+            <k_factor>18</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Inside / Outside Loop</desc>
+            <k_factor>19</k_factor>
+            <score>5.5</score>
+         </figure>
+         <figure index="7">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>39</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>33</k_factor>
+            <score>5.5</score>
+         </figure>
+         <figure index="9">
+            <desc>90 Degree Inverted 1 Turn Roller</desc>
+            <k_factor>15</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>9</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>9</k_factor>
+            <score>6.0</score>
+         </figure>
+      </flight>
+      <flight round="1" sequence="2" ksum="1357,0" score="1357,0">
+         <figure index="0">
+            <desc>P-Loop</desc>
+            <k_factor>29</k_factor>
+            <score>5.5</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal (Lay Down) Humpty Bump</desc>
+            <k_factor>27</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Vertical 5/8 Loop (Tear Drop)</desc>
+            <k_factor>29</k_factor>
+            <score>5.5</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Outside Loop (Immelmann)</desc>
+            <k_factor>32</k_factor>
+            <score>4.5</score>
+         </figure>
+         <figure index="4">
+            <desc>Down Humpty Bump</desc>
+            <k_factor>35</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Vertical Downline</desc>
+            <k_factor>18</k_factor>
+            <score>6.5</score>
+         </figure>
+         <figure index="6">
+            <desc>Inside / Outside Loop</desc>
+            <k_factor>19</k_factor>
+            <score>4.5</score>
+         </figure>
+         <figure index="7">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>39</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>33</k_factor>
+            <score>5.5</score>
+         </figure>
+         <figure index="9">
+            <desc>90 Degree Inverted 1 Turn Roller</desc>
+            <k_factor>15</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>9</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>9</k_factor>
+            <score>6.0</score>
+         </figure>
+      </flight>
+      <flight round="2" sequence="1" ksum="1303,5" score="1303,5">
+         <figure index="0">
+            <desc>P-Loop</desc>
+            <k_factor>29</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal (Lay Down) Humpty Bump</desc>
+            <k_factor>27</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Vertical 5/8 Loop (Tear Drop)</desc>
+            <k_factor>29</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Outside Loop (Immelmann)</desc>
+            <k_factor>32</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="4">
+            <desc>Down Humpty Bump</desc>
+            <k_factor>35</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Vertical Downline</desc>
+            <k_factor>18</k_factor>
+            <score>5.5</score>
+         </figure>
+         <figure index="6">
+            <desc>Inside / Outside Loop</desc>
+            <k_factor>19</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>39</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>33</k_factor>
+            <score>5.5</score>
+         </figure>
+         <figure index="9">
+            <desc>90 Degree Inverted 1 Turn Roller</desc>
+            <k_factor>15</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>9</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>9</k_factor>
+            <score>5.0</score>
+         </figure>
+      </flight>
+      <flight round="2" sequence="2" ksum="1236,0" score="1236,0">
+         <figure index="0">
+            <desc>P-Loop</desc>
+            <k_factor>29</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal (Lay Down) Humpty Bump</desc>
+            <k_factor>27</k_factor>
+            <score>5.5</score>
+         </figure>
+         <figure index="2">
+            <desc>Vertical 5/8 Loop (Tear Drop)</desc>
+            <k_factor>29</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Outside Loop (Immelmann)</desc>
+            <k_factor>32</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="4">
+            <desc>Down Humpty Bump</desc>
+            <k_factor>35</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Vertical Downline</desc>
+            <k_factor>18</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Inside / Outside Loop</desc>
+            <k_factor>19</k_factor>
+            <score>5.5</score>
+         </figure>
+         <figure index="7">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>39</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>33</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="9">
+            <desc>90 Degree Inverted 1 Turn Roller</desc>
+            <k_factor>15</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>9</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>9</k_factor>
+            <score>6.0</score>
+         </figure>
+      </flight>
+      <flight round="3" sequence="1" ksum="1285,5" score="1285,5">
+         <figure index="0">
+            <desc>P-Loop</desc>
+            <k_factor>29</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal (Lay Down) Humpty Bump</desc>
+            <k_factor>27</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Vertical 5/8 Loop (Tear Drop)</desc>
+            <k_factor>29</k_factor>
+            <score>4.5</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Outside Loop (Immelmann)</desc>
+            <k_factor>32</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="4">
+            <desc>Down Humpty Bump</desc>
+            <k_factor>35</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Vertical Downline</desc>
+            <k_factor>18</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Inside / Outside Loop</desc>
+            <k_factor>19</k_factor>
+            <score>4.5</score>
+         </figure>
+         <figure index="7">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>39</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>33</k_factor>
+            <score>5.5</score>
+         </figure>
+         <figure index="9">
+            <desc>90 Degree Inverted 1 Turn Roller</desc>
+            <k_factor>15</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>9</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>9</k_factor>
+            <score>7.0</score>
+         </figure>
+      </flight>
+   </section>
+   <section type="KNOWN" start_round="1" end_round="3" judge_sheet="4">
+      <flight round="1" sequence="1" ksum="1125,0" score="1125,0">
+         <figure index="0">
+            <desc>P-Loop</desc>
+            <k_factor>29</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal (Lay Down) Humpty Bump</desc>
+            <k_factor>27</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Vertical 5/8 Loop (Tear Drop)</desc>
+            <k_factor>29</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Outside Loop (Immelmann)</desc>
+            <k_factor>32</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="4">
+            <desc>Down Humpty Bump</desc>
+            <k_factor>35</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Vertical Downline</desc>
+            <k_factor>18</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Inside / Outside Loop</desc>
+            <k_factor>19</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>39</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>33</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="9">
+            <desc>90 Degree Inverted 1 Turn Roller</desc>
+            <k_factor>15</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>9</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>9</k_factor>
+            <score>5.0</score>
+         </figure>
+      </flight>
+      <flight round="1" sequence="2" ksum="1191,0" score="1191,0">
+         <figure index="0">
+            <desc>P-Loop</desc>
+            <k_factor>29</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal (Lay Down) Humpty Bump</desc>
+            <k_factor>27</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Vertical 5/8 Loop (Tear Drop)</desc>
+            <k_factor>29</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Outside Loop (Immelmann)</desc>
+            <k_factor>32</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="4">
+            <desc>Down Humpty Bump</desc>
+            <k_factor>35</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Vertical Downline</desc>
+            <k_factor>18</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Inside / Outside Loop</desc>
+            <k_factor>19</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>39</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>33</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="9">
+            <desc>90 Degree Inverted 1 Turn Roller</desc>
+            <k_factor>15</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>9</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>9</k_factor>
+            <score>5.0</score>
+         </figure>
+      </flight>
+      <flight round="2" sequence="1" ksum="1300,0" score="1300,0">
+         <figure index="0">
+            <desc>P-Loop</desc>
+            <k_factor>29</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal (Lay Down) Humpty Bump</desc>
+            <k_factor>27</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Vertical 5/8 Loop (Tear Drop)</desc>
+            <k_factor>29</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Outside Loop (Immelmann)</desc>
+            <k_factor>32</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="4">
+            <desc>Down Humpty Bump</desc>
+            <k_factor>35</k_factor>
+            <score>2.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Vertical Downline</desc>
+            <k_factor>18</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Inside / Outside Loop</desc>
+            <k_factor>19</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>39</k_factor>
+            <score>2.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>33</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="9">
+            <desc>90 Degree Inverted 1 Turn Roller</desc>
+            <k_factor>15</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>9</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>9</k_factor>
+            <score>5.0</score>
+         </figure>
+      </flight>
+      <flight round="2" sequence="2" ksum="1039,0" score="1039,0">
+         <figure index="0">
+            <desc>P-Loop</desc>
+            <k_factor>29</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal (Lay Down) Humpty Bump</desc>
+            <k_factor>27</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Vertical 5/8 Loop (Tear Drop)</desc>
+            <k_factor>29</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Outside Loop (Immelmann)</desc>
+            <k_factor>32</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="4">
+            <desc>Down Humpty Bump</desc>
+            <k_factor>35</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Vertical Downline</desc>
+            <k_factor>18</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Inside / Outside Loop</desc>
+            <k_factor>19</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>39</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>33</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="9">
+            <desc>90 Degree Inverted 1 Turn Roller</desc>
+            <k_factor>15</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>9</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>9</k_factor>
+            <score>4.0</score>
+         </figure>
+      </flight>
+      <flight round="3" sequence="1" ksum="1175,0" score="1175,0">
+         <figure index="0">
+            <desc>P-Loop</desc>
+            <k_factor>29</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal (Lay Down) Humpty Bump</desc>
+            <k_factor>27</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Vertical 5/8 Loop (Tear Drop)</desc>
+            <k_factor>29</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="3">
+            <desc>1/2 Outside Loop (Immelmann)</desc>
+            <k_factor>32</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="4">
+            <desc>Down Humpty Bump</desc>
+            <k_factor>35</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Vertical Downline</desc>
+            <k_factor>18</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Inside / Outside Loop</desc>
+            <k_factor>19</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>39</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Reverse "Fig 4" Sharks Tooth</desc>
+            <k_factor>33</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="9">
+            <desc>90 Degree Inverted 1 Turn Roller</desc>
+            <k_factor>15</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>9</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>9</k_factor>
+            <score>4.0</score>
+         </figure>
+      </flight>
+   </section>
+   <section type="UNKNOWN" start_round="1" end_round="1" judge_sheet="1">
+      <flight round="1" ksum="1196,0" score="1196,0">
+         <figure index="0">
+            <k_factor>28</k_factor>
+            <score>6.5</score>
+         </figure>
+         <figure index="1">
+            <k_factor>27</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="2">
+            <k_factor>24</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="3">
+            <k_factor>26</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="4">
+            <k_factor>27</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="5">
+            <k_factor>26</k_factor>
+            <score>5.5</score>
+         </figure>
+         <figure index="6">
+            <k_factor>18</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="7">
+            <k_factor>27</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="8">
+            <k_factor>20</k_factor>
+            <score>2.0</score>
+         </figure>
+         <figure index="9">
+            <k_factor>24</k_factor>
+            <score>7.0</score>
+         </figure>
+      </flight>
+   </section>
+   <section type="UNKNOWN" start_round="1" end_round="1" judge_sheet="2">
+      <flight round="1" ksum="1008,0" score="1008,0">
+         <figure index="0">
+            <k_factor>28</k_factor>
+            <score>5.5</score>
+         </figure>
+         <figure index="1">
+            <k_factor>27</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="2">
+            <k_factor>24</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="3">
+            <k_factor>26</k_factor>
+            <score>4.5</score>
+         </figure>
+         <figure index="4">
+            <k_factor>27</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="5">
+            <k_factor>26</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="6">
+            <k_factor>18</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="7">
+            <k_factor>27</k_factor>
+            <score>8.0</score>
+         </figure>
+         <figure index="8">
+            <k_factor>20</k_factor>
+            <score>3.5</score>
+         </figure>
+         <figure index="9">
+            <k_factor>24</k_factor>
+            <score>5.5</score>
+         </figure>
+      </flight>
+   </section>
+   <section type="UNKNOWN" start_round="1" end_round="1" judge_sheet="3">
+      <flight round="1" ksum="673,0" score="673,0">
+         <figure index="0">
+            <k_factor>28</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="1">
+            <k_factor>27</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="2">
+            <k_factor>24</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="3">
+            <k_factor>26</k_factor>
+            <score>2.0</score>
+         </figure>
+         <figure index="4">
+            <k_factor>27</k_factor>
+            <score>2.0</score>
+         </figure>
+         <figure index="5">
+            <k_factor>26</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="6">
+            <k_factor>18</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="7">
+            <k_factor>27</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="8">
+            <k_factor>20</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="9">
+            <k_factor>24</k_factor>
+            <score>6.0</score>
+         </figure>
+      </flight>
+   </section>
+   <section type="UNKNOWN" start_round="1" end_round="1" judge_sheet="4">
+      <flight round="1" ksum="618,0" score="618,0">
+         <figure index="0">
+            <k_factor>28</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="1">
+            <k_factor>27</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="2">
+            <k_factor>24</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="3">
+            <k_factor>26</k_factor>
+            <score>2.0</score>
+         </figure>
+         <figure index="4">
+            <k_factor>27</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="5">
+            <k_factor>26</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="6">
+            <k_factor>18</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="7">
+            <k_factor>27</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="8">
+            <k_factor>20</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="9">
+            <k_factor>24</k_factor>
+            <score>4.0</score>
+         </figure>
+      </flight>
+   </section>
+</report>

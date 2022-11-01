@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This file was written by the 'Score!' program -->
+<!-- 'Score!' is a program for scorekeeping aerobatic contests -->
+<report>
+   <contest_name>copa ACONCAGUA 2da Fecha Chile</contest_name>
+   <type>Pilot Report</type>
+   <timestamp>29-oct-2022 20:08</timestamp>
+   <pilot id="201">
+      <name>Cristian Barrera</name>
+      <missing_pilot_panel>false</missing_pilot_panel>
+      <active>true</active>
+      <freestyle>false</freestyle>
+      <class type="SPORTSMAN"/>
+      <frequency>0</frequency>
+      <ama_number>201</ama_number>
+      <imac_number>201</imac_number>
+   </pilot>
+   <section type="KNOWN" start_round="1" end_round="3" judge_sheet="1">
+      <flight round="1" sequence="1" ksum=",0" score=",0">
+      </flight>
+      <flight round="1" sequence="2" ksum=",0" score=",0">
+      </flight>
+      <flight round="2" sequence="1" ksum=",0" score=",0">
+      </flight>
+      <flight round="2" sequence="2" ksum=",0" score=",0">
+      </flight>
+      <flight round="3" sequence="1" ksum=",0" score=",0">
+      </flight>
+      <flight round="3" sequence="2" ksum=",0" score=",0">
+      </flight>
+   </section>
+   <section type="KNOWN" start_round="1" end_round="3" judge_sheet="2">
+      <flight round="1" sequence="1" ksum=",0" score=",0">
+      </flight>
+      <flight round="1" sequence="2" ksum=",0" score=",0">
+      </flight>
+      <flight round="2" sequence="1" ksum=",0" score=",0">
+      </flight>
+      <flight round="2" sequence="2" ksum=",0" score=",0">
+      </flight>
+      <flight round="3" sequence="1" ksum=",0" score=",0">
+      </flight>
+      <flight round="3" sequence="2" ksum=",0" score=",0">
+      </flight>
+   </section>
+   <section type="KNOWN" start_round="1" end_round="3" judge_sheet="3">
+      <flight round="1" sequence="1" ksum=",0" score=",0">
+      </flight>
+      <flight round="1" sequence="2" ksum=",0" score=",0">
+      </flight>
+      <flight round="2" sequence="1" ksum=",0" score=",0">
+      </flight>
+      <flight round="2" sequence="2" ksum=",0" score=",0">
+      </flight>
+      <flight round="3" sequence="1" ksum=",0" score=",0">
+      </flight>
+      <flight round="3" sequence="2" ksum=",0" score=",0">
+      </flight>
+   </section>
+   <section type="KNOWN" start_round="1" end_round="3" judge_sheet="4">
+      <flight round="1" sequence="1" ksum=",0" score=",0">
+      </flight>
+      <flight round="1" sequence="2" ksum=",0" score=",0">
+      </flight>
+      <flight round="2" sequence="1" ksum=",0" score=",0">
+      </flight>
+      <flight round="2" sequence="2" ksum=",0" score=",0">
+      </flight>
+      <flight round="3" sequence="1" ksum=",0" score=",0">
+      </flight>
+      <flight round="3" sequence="2" ksum=",0" score=",0">
+      </flight>
+   </section>
+</report>

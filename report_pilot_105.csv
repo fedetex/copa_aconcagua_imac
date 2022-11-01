@@ -1,0 +1,86 @@
+"This file was written by the 'Score!' program"
+"'Score!' is a program for scorekeeping aerobatic contests"
+""
+"Contest Name:","copa ACONCAGUA 2da Fecha Chile"
+"Type:","Pilot Report"
+"Timestamp:","1-nov-2022 10:09"
+"Pilot:","Federico Troitiño / CACH #105 / Basic"
+""
+"Known Flights: Rounds 1-4, Judge/Sheet #1"
+" "
+"R1/S1","R1/S2","R2/S1","R2/S2","R3/S1","R4/S1"
+"1: Aileron Roll (k=10)",7.0,8.0,7.0,5.0,7.0,7.0
+"2: Shark's Tooth (k=17)",7.5,7.0,6.0,6.0,6.0,6.0
+"3: Humpty Bump (k=17)",6.0,5.0,6.0,7.0,5.0,7.0
+"4: 360 Aerobatic Turn (k=6)",8.0,4.0,7.0,5.0,6.0,6.0
+"5: Stall Turn Hamerhead (k=17)",5.0,7.0,5.0,7.0,6.0,7.0
+"6: Reverse 1/2 Cuban (k=16)",0.0,7.0,5.0,7.0,7.0,8.0
+"7: Loop (k=10)",0.0,5.0,6.0,6.0,5.0,5.0
+"8: Vertical 5/8 Loop/Reverse Tear Drop (k=16)",0.0,4.0,6.0,7.0,6.0,6.0
+"9: 1/2 Inside Loop (Immelmann) (k=10)",0.0,6.0,5.0,7.0,6.0,6.0
+"10: 1 1/2 PositiveTurn Spin (k=13)",0.0,5.0,0.0,4.0,5.0,4.0
+"11: Sound (k=3)",0.0,10.0,10.0,10.0,10.0,10.0
+"12: Airspace Control (k=3)",0.0,10.0,9.0,9.0,9.0,9.0
+"Simple Sum",33.5,78.0,72.0,80.0,78.0,81.0
+"K-Factored Sum",432.5,838.0,744.0,883.0,835.0,889.0
+"Penalty",0.0,0.0,0.0,0.0,0.0,0.0
+"Flight Score",432.5,838.0,744.0,883.0,835.0,889.0
+"Known Flights: Rounds 1-4, Judge/Sheet #2"
+" "
+"R1/S1","R1/S2","R2/S1","R2/S2","R3/S1","R4/S1"
+"1: Aileron Roll (k=10)",8.5,9.0,8.0,7.0,8.0,9.0
+"2: Shark's Tooth (k=17)",9.0,9.0,7.0,7.0,7.0,8.0
+"3: Humpty Bump (k=17)",9.0,9.0,7.0,7.5,7.0,8.0
+"4: 360 Aerobatic Turn (k=6)",9.0,7.0,7.0,6.0,6.0,7.0
+"5: Stall Turn Hamerhead (k=17)",8.0,7.0,5.0,7.0,6.0,7.0
+"6: Reverse 1/2 Cuban (k=16)",0.0,8.5,6.5,6.0,8.0,7.5
+"7: Loop (k=10)",0.0,8.0,6.0,6.5,8.5,8.0
+"8: Vertical 5/8 Loop/Reverse Tear Drop (k=16)",0.0,8.0,6.0,7.0,8.0,8.0
+"9: 1/2 Inside Loop (Immelmann) (k=10)",0.0,7.0,7.0,7.0,7.0,6.5
+"10: 1 1/2 PositiveTurn Spin (k=13)",0.0,8.0,0.0,0.0,7.0,6.5
+"11: Sound (k=3)",0.0,8.0,8.0,7.0,8.0,9.0
+"12: Airspace Control (k=3)",0.0,7.0,7.0,7.0,7.0,8.0
+"Simple Sum",43.5,95.5,74.5,75.0,87.5,92.5
+"K-Factored Sum",581.0,1120.0,820.0,856.5,1003.0,1051.5
+"Penalty",0.0,0.0,0.0,0.0,0.0,0.0
+"Flight Score",581.0,1120.0,820.0,856.5,1003.0,1051.5
+"Known Flights: Rounds 1-4, Judge/Sheet #3"
+" "
+"R1/S1","R1/S2","R2/S1","R2/S2","R3/S1","R4/S1"
+"1: Aileron Roll (k=10)",8.0,8.0,5.0,5.0,7.0,7.0
+"2: Shark's Tooth (k=17)",7.0,7.0,4.0,4.0,5.0,6.0
+"3: Humpty Bump (k=17)",7.0,8.0,6.0,6.0,6.0,5.0
+"4: 360 Aerobatic Turn (k=6)",7.0,4.0,5.0,5.0,3.0,5.0
+"5: Stall Turn Hamerhead (k=17)",8.0,7.0,5.0,7.0,5.0,6.0
+"6: Reverse 1/2 Cuban (k=16)",0.0,8.0,6.0,5.0,6.0,7.0
+"7: Loop (k=10)",0.0,5.0,5.0,4.0,5.0,7.0
+"8: Vertical 5/8 Loop/Reverse Tear Drop (k=16)",0.0,6.0,7.0,5.0,6.0,6.0
+"9: 1/2 Inside Loop (Immelmann) (k=10)",0.0,7.0,6.0,4.0,5.0,4.0
+"10: 1 1/2 PositiveTurn Spin (k=13)",0.0,6.0,0.0,2.0,6.0,0.0
+"11: Sound (k=3)",0.0,7.0,7.0,7.0,7.0,7.0
+"12: Airspace Control (k=3)",0.0,9.0,6.0,6.0,6.0,4.0
+"Simple Sum",37.0,82.0,62.0,60.0,67.0,64.0
+"K-Factored Sum",496.0,948.0,692.0,674.0,769.0,740.0
+"Penalty",0.0,0.0,0.0,0.0,0.0,0.0
+"Flight Score",496.0,948.0,692.0,674.0,769.0,740.0
+"Known Flights: Rounds 1-4, Judge/Sheet #4"
+" "
+"R1/S1","R1/S2","R2/S1","R2/S2","R3/S1","R4/S1"
+"1: Aileron Roll (k=10)",7.0,6.0,6.0,5.0,8.0,7.0
+"2: Shark's Tooth (k=17)",7.0,7.0,6.0,5.0,7.0,5.0
+"3: Humpty Bump (k=17)",6.0,6.0,6.0,7.0,8.0,6.0
+"4: 360 Aerobatic Turn (k=6)",7.0,4.0,5.0,5.0,4.0,5.0
+"5: Stall Turn Hamerhead (k=17)",8.0,6.0,2.0,6.0,6.0,6.0
+"6: Reverse 1/2 Cuban (k=16)",0.0,6.0,5.0,7.0,7.0,5.0
+"7: Loop (k=10)",0.0,4.0,6.0,6.0,8.0,7.0
+"8: Vertical 5/8 Loop/Reverse Tear Drop (k=16)",0.0,5.0,7.0,5.0,6.0,6.0
+"9: 1/2 Inside Loop (Immelmann) (k=10)",0.0,6.0,9.0,6.0,5.0,6.0
+"10: 1 1/2 PositiveTurn Spin (k=13)",0.0,5.0,0.0,0.0,5.0,5.0
+"11: Sound (k=3)",0.0,6.0,6.0,6.0,6.0,6.0
+"12: Airspace Control (k=3)",0.0,6.0,6.0,6.0,6.0,6.0
+"Simple Sum",35.0,67.0,64.0,64.0,76.0,70.0
+"K-Factored Sum",469.0,784.0,706.0,734.0,900.0,796.0
+"Penalty",0.0,0.0,0.0,0.0,0.0,0.0
+"Flight Score",469.0,784.0,706.0,734.0,900.0,796.0
+""
+""

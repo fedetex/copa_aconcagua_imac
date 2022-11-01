@@ -1,0 +1,119 @@
+@CHARSET "UTF-8";
+div.comptitle {
+    border-bottom: 2px solid #648612;
+}
+
+h1.overalltitle {
+    color: #648612;
+}
+
+.pilottitle {
+    color: #002200;
+}
+
+.sectiontitle {
+    color: #648612;
+}
+
+table, th, td {
+    border: 1px solid #98bf21;
+}
+
+th {
+    border: 1px solid #648612;
+    background-color: #A7C942;
+    color: #fff
+}
+
+td {
+    background-color: #A7C942;
+    color: #000000
+}
+
+.finalscore {
+    background-color: #ffffff;
+}
+
+.finalscore_even {
+    background-color: #eaf2d3;
+}
+
+.score {
+    background-color: #ffffff;
+}
+
+.score_even {
+    background-color: #eaf2d3;
+}
+
+.scorehighlight {
+    background-color: #eeeeee;
+}
+
+.scorehighlight_even {
+    background-color: #dce5c1;
+}
+
+.leftdata {
+    background-color: #ffffff;
+}
+
+.leftdata_even {
+    background-color: #eaf2d3;
+}
+
+.leftdatasum {
+    background-color: #a7c942;
+}
+.leftdatasum_k {
+    background-color: #a7c942;
+}
+.leftdatasum_p {
+    background-color: #a7c942;
+}
+.sumdata {
+    background-color: #a7c942;
+}
+.sumdata_k {
+    background-color: #a7c942;
+}
+.sumdata_p {
+    background-color: #a7c942;
+}
+
+.leftpname {
+    background-color: #ffffff;
+}
+
+.leftpname_even {
+    background-color: #eaf2d3;
+}
+
+.leftrank {
+    background-color: #ffffff;
+}
+
+.leftrank_even {
+    background-color: #eaf2d3;
+}
+
+table.comments {
+    background-color: #ffffff;
+}
+
+td.commentshdr {
+    background-color: #ffffff;
+    border-bottom: 1px solid #a7c942;
+}
+
+td.comment {
+    background-color: #ffffff;
+}
+
+td.comment_even {
+    background-color: #ffffff;
+}
+
+.roundhdr {
+    background-color: #84a82c;
+}

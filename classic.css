@@ -1,0 +1,61 @@
+@CHARSET "UTF-8";
+div.comptitle {
+    border-bottom: 2px solid #000000;
+}
+
+h1.overalltitle {
+    color: #000000;
+}
+
+.pilottitle {
+    color: #000000;
+}
+
+.sectiontitle {
+    color: #000000;
+}
+
+.scorehighlight {
+    background-color: #e0e0e0;
+}
+
+.scorehighlight_even {
+    background-color: #e0e0e0;
+}
+.sumdata {
+    background-color: #c8c8c8;
+}
+.sumdata_k {
+    background-color: #c8c8c8;
+}
+.sumdata_p {
+    background-color: #c8c8c8;
+}
+
+.commentshdr {
+	border-bottom: 1px solid black;
+}
+.seqhdr {
+	background-color: #c8c8c8;
+}
+.roundhdr {
+	background-color: #e0e0e0;
+}
+.typehdr {
+	background-color: #c8c8c8;
+}
+.judgehdr {
+	background-color: #e0e0e0;
+}
+.lefthdr {
+	background-color: #e0e0e0;
+}
+.leftdatasum {
+	background-color: #c8c8c8;
+}
+.leftdatasum_k {
+	background-color: #c8c8c8;
+}
+.leftdatasum_p {
+	background-color: #c8c8c8;
+}
