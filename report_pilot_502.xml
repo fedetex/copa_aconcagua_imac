@@ -1,0 +1,1087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This file was written by the 'Score!' program -->
+<!-- 'Score!' is a program for scorekeeping aerobatic contests -->
+<report>
+   <contest_name>copa ACONCAGUA 2da Fecha Chile</contest_name>
+   <type>Pilot Report</type>
+   <timestamp>1-nov-2022 10:59</timestamp>
+   <pilot id="502">
+      <name>MARCOS BUJALDON</name>
+      <airplane>ARGENTINA</airplane>
+      <missing_pilot_panel>false</missing_pilot_panel>
+      <active>true</active>
+      <freestyle>false</freestyle>
+      <class type="UNLIMITED"/>
+      <frequency>SS</frequency>
+      <ama_number>502</ama_number>
+      <imac_number>502</imac_number>
+   </pilot>
+   <section type="KNOWN" start_round="1" end_round="3" judge_sheet="1">
+      <flight round="1" sequence="1" ksum="3245,0" score="3245,0">
+         <figure index="0">
+            <desc>Reverse Half Cuban</desc>
+            <k_factor>53</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal Humpty Bump</desc>
+            <k_factor>43</k_factor>
+            <score>8.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>62</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="3">
+            <desc>Rolling Turn</desc>
+            <k_factor>46</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="4">
+            <desc>Reverse Vertical 5/8 Loop (Teardrop)</desc>
+            <k_factor>43</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>38</k_factor>
+            <score>8.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Half Loop (Immelmann)</desc>
+            <k_factor>49</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Down Loop</desc>
+            <k_factor>27</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Spin/Vertical 5/8 Loop</desc>
+            <k_factor>48</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Horizontal S</desc>
+            <k_factor>51</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>15</k_factor>
+            <score>8.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>15</k_factor>
+            <score>8.0</score>
+         </figure>
+      </flight>
+      <flight round="1" sequence="2" ksum="3427,0" score="3427,0">
+         <figure index="0">
+            <desc>Reverse Half Cuban</desc>
+            <k_factor>53</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal Humpty Bump</desc>
+            <k_factor>43</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>62</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="3">
+            <desc>Rolling Turn</desc>
+            <k_factor>46</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="4">
+            <desc>Reverse Vertical 5/8 Loop (Teardrop)</desc>
+            <k_factor>43</k_factor>
+            <score>8.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>38</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Half Loop (Immelmann)</desc>
+            <k_factor>49</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Down Loop</desc>
+            <k_factor>27</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Spin/Vertical 5/8 Loop</desc>
+            <k_factor>48</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Horizontal S</desc>
+            <k_factor>51</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>15</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>15</k_factor>
+            <score>7.0</score>
+         </figure>
+      </flight>
+      <flight round="2" sequence="1" ksum="3147,0" score="3147,0">
+         <figure index="0">
+            <desc>Reverse Half Cuban</desc>
+            <k_factor>53</k_factor>
+            <score>6.5</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal Humpty Bump</desc>
+            <k_factor>43</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>62</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="3">
+            <desc>Rolling Turn</desc>
+            <k_factor>46</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="4">
+            <desc>Reverse Vertical 5/8 Loop (Teardrop)</desc>
+            <k_factor>43</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>38</k_factor>
+            <score>7.5</score>
+         </figure>
+         <figure index="6">
+            <desc>Half Loop (Immelmann)</desc>
+            <k_factor>49</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Down Loop</desc>
+            <k_factor>27</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Spin/Vertical 5/8 Loop</desc>
+            <k_factor>48</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Horizontal S</desc>
+            <k_factor>51</k_factor>
+            <score>6.5</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>15</k_factor>
+            <score>8.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>15</k_factor>
+            <score>7.0</score>
+         </figure>
+      </flight>
+      <flight round="2" sequence="2" ksum="3368,5" score="3368,5">
+         <figure index="0">
+            <desc>Reverse Half Cuban</desc>
+            <k_factor>53</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal Humpty Bump</desc>
+            <k_factor>43</k_factor>
+            <score>7.5</score>
+         </figure>
+         <figure index="2">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>62</k_factor>
+            <score>8.0</score>
+         </figure>
+         <figure index="3">
+            <desc>Rolling Turn</desc>
+            <k_factor>46</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="4">
+            <desc>Reverse Vertical 5/8 Loop (Teardrop)</desc>
+            <k_factor>43</k_factor>
+            <score>7.5</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>38</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Half Loop (Immelmann)</desc>
+            <k_factor>49</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Down Loop</desc>
+            <k_factor>27</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Spin/Vertical 5/8 Loop</desc>
+            <k_factor>48</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Horizontal S</desc>
+            <k_factor>51</k_factor>
+            <score>6.5</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>15</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>15</k_factor>
+            <score>7.0</score>
+         </figure>
+      </flight>
+      <flight round="3" sequence="1" ksum="3220,5" score="3220,5">
+         <figure index="0">
+            <desc>Reverse Half Cuban</desc>
+            <k_factor>53</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal Humpty Bump</desc>
+            <k_factor>43</k_factor>
+            <score>7.5</score>
+         </figure>
+         <figure index="2">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>62</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="3">
+            <desc>Rolling Turn</desc>
+            <k_factor>46</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="4">
+            <desc>Reverse Vertical 5/8 Loop (Teardrop)</desc>
+            <k_factor>43</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>38</k_factor>
+            <score>7.5</score>
+         </figure>
+         <figure index="6">
+            <desc>Half Loop (Immelmann)</desc>
+            <k_factor>49</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Down Loop</desc>
+            <k_factor>27</k_factor>
+            <score>5.5</score>
+         </figure>
+         <figure index="8">
+            <desc>Spin/Vertical 5/8 Loop</desc>
+            <k_factor>48</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Horizontal S</desc>
+            <k_factor>51</k_factor>
+            <score>6.5</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>15</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>15</k_factor>
+            <score>7.0</score>
+         </figure>
+      </flight>
+   </section>
+   <section type="KNOWN" start_round="1" end_round="3" judge_sheet="2">
+      <flight round="1" sequence="1" ksum="2653,0" score="2653,0">
+         <figure index="0">
+            <desc>Reverse Half Cuban</desc>
+            <k_factor>53</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal Humpty Bump</desc>
+            <k_factor>43</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>62</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="3">
+            <desc>Rolling Turn</desc>
+            <k_factor>46</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="4">
+            <desc>Reverse Vertical 5/8 Loop (Teardrop)</desc>
+            <k_factor>43</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>38</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Half Loop (Immelmann)</desc>
+            <k_factor>49</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Down Loop</desc>
+            <k_factor>27</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Spin/Vertical 5/8 Loop</desc>
+            <k_factor>48</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Horizontal S</desc>
+            <k_factor>51</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>15</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>15</k_factor>
+            <score>5.0</score>
+         </figure>
+      </flight>
+      <flight round="1" sequence="2" ksum="2864,0" score="2864,0">
+         <figure index="0">
+            <desc>Reverse Half Cuban</desc>
+            <k_factor>53</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal Humpty Bump</desc>
+            <k_factor>43</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>62</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="3">
+            <desc>Rolling Turn</desc>
+            <k_factor>46</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="4">
+            <desc>Reverse Vertical 5/8 Loop (Teardrop)</desc>
+            <k_factor>43</k_factor>
+            <score>8.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>38</k_factor>
+            <score>8.5</score>
+         </figure>
+         <figure index="6">
+            <desc>Half Loop (Immelmann)</desc>
+            <k_factor>49</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Down Loop</desc>
+            <k_factor>27</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Spin/Vertical 5/8 Loop</desc>
+            <k_factor>48</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Horizontal S</desc>
+            <k_factor>51</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>15</k_factor>
+            <score>8.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>15</k_factor>
+            <score>5.0</score>
+         </figure>
+      </flight>
+      <flight round="2" sequence="1" ksum="2852,0" score="2852,0">
+         <figure index="0">
+            <desc>Reverse Half Cuban</desc>
+            <k_factor>53</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal Humpty Bump</desc>
+            <k_factor>43</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>62</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="3">
+            <desc>Rolling Turn</desc>
+            <k_factor>46</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="4">
+            <desc>Reverse Vertical 5/8 Loop (Teardrop)</desc>
+            <k_factor>43</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>38</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Half Loop (Immelmann)</desc>
+            <k_factor>49</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Down Loop</desc>
+            <k_factor>27</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Spin/Vertical 5/8 Loop</desc>
+            <k_factor>48</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Horizontal S</desc>
+            <k_factor>51</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>15</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>15</k_factor>
+            <score>8.0</score>
+         </figure>
+      </flight>
+      <flight round="2" sequence="2" ksum="2981,0" score="2981,0">
+         <figure index="0">
+            <desc>Reverse Half Cuban</desc>
+            <k_factor>53</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal Humpty Bump</desc>
+            <k_factor>43</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>62</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="3">
+            <desc>Rolling Turn</desc>
+            <k_factor>46</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="4">
+            <desc>Reverse Vertical 5/8 Loop (Teardrop)</desc>
+            <k_factor>43</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>38</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Half Loop (Immelmann)</desc>
+            <k_factor>49</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Down Loop</desc>
+            <k_factor>27</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Spin/Vertical 5/8 Loop</desc>
+            <k_factor>48</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Horizontal S</desc>
+            <k_factor>51</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>15</k_factor>
+            <score>8.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>15</k_factor>
+            <score>8.0</score>
+         </figure>
+      </flight>
+      <flight round="3" sequence="1" ksum="2785,0" score="2785,0">
+         <figure index="0">
+            <desc>Reverse Half Cuban</desc>
+            <k_factor>53</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal Humpty Bump</desc>
+            <k_factor>43</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>62</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="3">
+            <desc>Rolling Turn</desc>
+            <k_factor>46</k_factor>
+            <score>2.0</score>
+         </figure>
+         <figure index="4">
+            <desc>Reverse Vertical 5/8 Loop (Teardrop)</desc>
+            <k_factor>43</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>38</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Half Loop (Immelmann)</desc>
+            <k_factor>49</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Down Loop</desc>
+            <k_factor>27</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Spin/Vertical 5/8 Loop</desc>
+            <k_factor>48</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Horizontal S</desc>
+            <k_factor>51</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>15</k_factor>
+            <score>8.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>15</k_factor>
+            <score>6.0</score>
+         </figure>
+      </flight>
+   </section>
+   <section type="KNOWN" start_round="1" end_round="3" judge_sheet="3">
+      <flight round="1" sequence="1" ksum="2246,0" score="2246,0">
+         <figure index="0">
+            <desc>Reverse Half Cuban</desc>
+            <k_factor>53</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal Humpty Bump</desc>
+            <k_factor>43</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>62</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="3">
+            <desc>Rolling Turn</desc>
+            <k_factor>46</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="4">
+            <desc>Reverse Vertical 5/8 Loop (Teardrop)</desc>
+            <k_factor>43</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>38</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Half Loop (Immelmann)</desc>
+            <k_factor>49</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Down Loop</desc>
+            <k_factor>27</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Spin/Vertical 5/8 Loop</desc>
+            <k_factor>48</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Horizontal S</desc>
+            <k_factor>51</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>15</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>15</k_factor>
+            <score>6.0</score>
+         </figure>
+      </flight>
+      <flight round="1" sequence="2" ksum="2123,0" score="2123,0">
+         <figure index="0">
+            <desc>Reverse Half Cuban</desc>
+            <k_factor>53</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal Humpty Bump</desc>
+            <k_factor>43</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>62</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="3">
+            <desc>Rolling Turn</desc>
+            <k_factor>46</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="4">
+            <desc>Reverse Vertical 5/8 Loop (Teardrop)</desc>
+            <k_factor>43</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>38</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Half Loop (Immelmann)</desc>
+            <k_factor>49</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Down Loop</desc>
+            <k_factor>27</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Spin/Vertical 5/8 Loop</desc>
+            <k_factor>48</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Horizontal S</desc>
+            <k_factor>51</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>15</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>15</k_factor>
+            <score>6.0</score>
+         </figure>
+      </flight>
+      <flight round="2" sequence="1" ksum="2616,0" score="2616,0">
+         <figure index="0">
+            <desc>Reverse Half Cuban</desc>
+            <k_factor>53</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal Humpty Bump</desc>
+            <k_factor>43</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>62</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="3">
+            <desc>Rolling Turn</desc>
+            <k_factor>46</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="4">
+            <desc>Reverse Vertical 5/8 Loop (Teardrop)</desc>
+            <k_factor>43</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>38</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Half Loop (Immelmann)</desc>
+            <k_factor>49</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Down Loop</desc>
+            <k_factor>27</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Spin/Vertical 5/8 Loop</desc>
+            <k_factor>48</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Horizontal S</desc>
+            <k_factor>51</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>15</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>15</k_factor>
+            <score>7.0</score>
+         </figure>
+      </flight>
+      <flight round="2" sequence="2" ksum="2334,0" score="2334,0">
+         <figure index="0">
+            <desc>Reverse Half Cuban</desc>
+            <k_factor>53</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal Humpty Bump</desc>
+            <k_factor>43</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>62</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="3">
+            <desc>Rolling Turn</desc>
+            <k_factor>46</k_factor>
+            <score>2.0</score>
+         </figure>
+         <figure index="4">
+            <desc>Reverse Vertical 5/8 Loop (Teardrop)</desc>
+            <k_factor>43</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>38</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Half Loop (Immelmann)</desc>
+            <k_factor>49</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Down Loop</desc>
+            <k_factor>27</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Spin/Vertical 5/8 Loop</desc>
+            <k_factor>48</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Horizontal S</desc>
+            <k_factor>51</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>15</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>15</k_factor>
+            <score>7.0</score>
+         </figure>
+      </flight>
+      <flight round="3" sequence="1" ksum="2351,0" score="2351,0">
+         <figure index="0">
+            <desc>Reverse Half Cuban</desc>
+            <k_factor>53</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="1">
+            <desc>Diagonal Humpty Bump</desc>
+            <k_factor>43</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="2">
+            <desc>Stall Turn (Hammerhead)</desc>
+            <k_factor>62</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="3">
+            <desc>Rolling Turn</desc>
+            <k_factor>46</k_factor>
+            <score>2.0</score>
+         </figure>
+         <figure index="4">
+            <desc>Reverse Vertical 5/8 Loop (Teardrop)</desc>
+            <k_factor>43</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="5">
+            <desc>Humpty Bump</desc>
+            <k_factor>38</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="6">
+            <desc>Half Loop (Immelmann)</desc>
+            <k_factor>49</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="7">
+            <desc>Down Loop</desc>
+            <k_factor>27</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="8">
+            <desc>Spin/Vertical 5/8 Loop</desc>
+            <k_factor>48</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="9">
+            <desc>Horizontal S</desc>
+            <k_factor>51</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="10">
+            <desc>Sound</desc>
+            <k_factor>15</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="11">
+            <desc>Airspace Control</desc>
+            <k_factor>15</k_factor>
+            <score>6.0</score>
+         </figure>
+      </flight>
+   </section>
+   <section type="UNKNOWN" start_round="1" end_round="1" judge_sheet="1">
+      <flight round="1" ksum="1949,5" score="1949,5">
+         <figure index="0">
+            <k_factor>61</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="1">
+            <k_factor>23</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="2">
+            <k_factor>47</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="3">
+            <k_factor>57</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="4">
+            <k_factor>39</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="5">
+            <k_factor>62</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="6">
+            <k_factor>25</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="7">
+            <k_factor>25</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="8">
+            <k_factor>52</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="9">
+            <k_factor>37</k_factor>
+            <score>6.5</score>
+         </figure>
+      </flight>
+   </section>
+   <section type="UNKNOWN" start_round="1" end_round="1" judge_sheet="2">
+      <flight round="1" ksum="1746,0" score="1746,0">
+         <figure index="0">
+            <k_factor>61</k_factor>
+            <score>2.0</score>
+         </figure>
+         <figure index="1">
+            <k_factor>23</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="2">
+            <k_factor>47</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="3">
+            <k_factor>57</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="4">
+            <k_factor>39</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="5">
+            <k_factor>62</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="6">
+            <k_factor>25</k_factor>
+            <score>7.0</score>
+         </figure>
+         <figure index="7">
+            <k_factor>25</k_factor>
+            <score>5.0</score>
+         </figure>
+         <figure index="8">
+            <k_factor>52</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="9">
+            <k_factor>37</k_factor>
+            <score>6.0</score>
+         </figure>
+      </flight>
+   </section>
+   <section type="UNKNOWN" start_round="1" end_round="1" judge_sheet="3">
+      <flight round="1" ksum="1270,0" score="1270,0">
+         <figure index="0">
+            <k_factor>61</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="1">
+            <k_factor>23</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="2">
+            <k_factor>47</k_factor>
+            <score>0.0</score>
+         </figure>
+         <figure index="3">
+            <k_factor>57</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="4">
+            <k_factor>39</k_factor>
+            <score>3.0</score>
+         </figure>
+         <figure index="5">
+            <k_factor>62</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="6">
+            <k_factor>25</k_factor>
+            <score>6.0</score>
+         </figure>
+         <figure index="7">
+            <k_factor>25</k_factor>
+            <score>4.0</score>
+         </figure>
+         <figure index="8">
+            <k_factor>52</k_factor>
+            <score>2.0</score>
+         </figure>
+         <figure index="9">
+            <k_factor>37</k_factor>
+            <score>5.0</score>
+         </figure>
+      </flight>
+   </section>
+</report>

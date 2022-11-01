@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This file was written by the 'Score!' program -->
+<!-- 'Score!' is a program for scorekeeping aerobatic contests -->
+<!-- This file '*results.xml' (no '3') is the original output that contains IMAC-only information -->
+<!-- A different file '*results3.xml' is the most complete data file and was introduced in version 3 -->
+<!-- The file naming is fixed due to downstream processing -->
+<event evtname="copa ACONCAGUA 2da Fecha Chile" evtregion="Nat" evtdate="11/01/22">
+<pilots>
+   <pilot>
+      <name>Enrique Ariztia</name>
+      <imacno>104</imacno>
+      <class>Basic</class>
+      <points>0.0</points>
+      <perc>65,462</perc>
+      <percknown>65,462</percknown>
+      <percunknown>-99,000</percunknown>
+   </pilot>
+   <pilot>
+      <name>Federico Troitiño</name>
+      <imacno>105</imacno>
+      <class>Basic</class>
+      <points>0.0</points>
+      <perc>62,595</perc>
+      <percknown>62,595</percknown>
+      <percunknown>-99,000</percunknown>
+   </pilot>
+   <pilot>
+      <name>Nicolas Valencia</name>
+      <imacno>109</imacno>
+      <class>Basic</class>
+      <points>0.0</points>
+      <perc>53,700</perc>
+      <percknown>53,700</percknown>
+      <percunknown>-99,000</percunknown>
+   </pilot>
+   <pilot>
+      <name>Danis Bustos</name>
+      <imacno>103</imacno>
+      <class>Basic</class>
+      <points>0.0</points>
+      <perc>53,084</perc>
+      <percknown>53,084</percknown>
+      <percunknown>-99,000</percunknown>
+   </pilot>
+   <pilot>
+      <name>Francisco Eterovich</name>
+      <imacno>106</imacno>
+      <class>Basic</class>
+      <points>0.0</points>
+      <perc>53,154</perc>
+      <percknown>53,154</percknown>
+      <percunknown>-99,000</percunknown>
+   </pilot>
+   <pilot>
+      <name>Calos Diaz</name>
+      <imacno>102</imacno>
+      <class>Basic</class>
+      <points>0.0</points>
+      <perc>52,582</perc>
+      <percknown>52,582</percknown>
+      <percunknown>-99,000</percunknown>
+   </pilot>
+   <pilot>
+      <name>Yoel Arendt</name>
+      <imacno>111</imacno>
+      <class>Basic</class>
+      <points>0.0</points>
+      <perc>50,444</perc>
+      <percknown>50,444</percknown>
+      <percunknown>-99,000</percunknown>
+   </pilot>
+   <pilot>
+      <name>Sergio Pizarro</name>
+      <imacno>110</imacno>
+      <class>Basic</class>
+      <points>0.0</points>
+      <perc>43,161</perc>
+      <percknown>43,161</percknown>
+      <percunknown>-99,000</percunknown>
+   </pilot>
+   <pilot>
+      <name>Andres Vasquez</name>
+      <imacno>100</imacno>
+      <class>Basic</class>
+      <points>0.0</points>
+      <perc>40,587</perc>
+      <percknown>40,587</percknown>
+      <percunknown>-99,000</percunknown>
+   </pilot>
+   <pilot>
+      <name>Jaime Parra</name>
+      <imacno>108</imacno>
+      <class>Basic</class>
+      <points>0.0</points>
+      <perc>35,702</perc>
+      <percknown>35,702</percknown>
+      <percunknown>-99,000</percunknown>
+   </pilot>
+   <pilot>
+      <name>Benjamin Abasolo</name>
+      <imacno>101</imacno>
+      <class>Basic</class>
+      <points>0.0</points>
+      <perc>32,101</perc>
+      <percknown>32,101</percknown>
+      <percunknown>-99,000</percunknown>
+   </pilot>
+   <pilot>
+      <name>Diego Nuñez</name>
+      <imacno>203</imacno>
+      <class>Sportsman</class>
+      <points>0.0</points>
+      <perc>65,183</perc>
+      <percknown>65,998</percknown>
+      <percunknown>61,223</percunknown>
+   </pilot>
+   <pilot>
+      <name>Natalio O'Kuingthon</name>
+      <imacno>208</imacno>
+      <class>Sportsman</class>
+      <points>0.0</points>
+      <perc>56,469</perc>
+      <percknown>57,460</percknown>
+      <percunknown>51,658</percunknown>
+   </pilot>
+   <pilot>
+      <name>Mauricio Zwanzger</name>
+      <imacno>207</imacno>
+      <class>Sportsman</class>
+      <points>0.0</points>
+      <perc>52,449</perc>
+      <percknown>52,645</percknown>
+      <percunknown>51,497</percunknown>
+   </pilot>
+   <pilot>
+      <name>Fernando Abasolo</name>
+      <imacno>204</imacno>
+      <class>Sportsman</class>
+      <points>0.0</points>
+      <perc>48,942</perc>
+      <percknown>48,177</percknown>
+      <percunknown>52,654</percunknown>
+   </pilot>
+   <pilot>
+      <name>Blas Ocampo</name>
+      <imacno>200</imacno>
+      <class>Sportsman</class>
+      <points>0.0</points>
+      <perc>51,035</perc>
+      <percknown>52,661</percknown>
+      <percunknown>43,142</percunknown>
+   </pilot>
+   <pilot>
+      <name>Daniel Pais</name>
+      <imacno>202</imacno>
+      <class>Sportsman</class>
+      <points>0.0</points>
+      <perc>45,380</perc>
+      <percknown>46,838</percknown>
+      <percunknown>38,302</percunknown>
+   </pilot>
+   <pilot>
+      <name>Julio Inostroza</name>
+      <imacno>206</imacno>
+      <class>Sportsman</class>
+      <points>0.0</points>
+      <perc>38,773</perc>
+      <percknown>39,379</percknown>
+      <percunknown>35,829</percunknown>
+   </pilot>
+   <pilot>
+      <name>Tomas Gutierrez</name>
+      <imacno>209</imacno>
+      <class>Sportsman</class>
+      <points>0.0</points>
+      <perc>20,160</perc>
+      <percknown>24,312</percknown>
+      <percunknown>0,000</percunknown>
+   </pilot>
+   <pilot>
+      <name>FAUSTO BUJALDON</name>
+      <imacno>303</imacno>
+      <class>Intermediate</class>
+      <points>0.0</points>
+      <perc>60,741</perc>
+      <percknown>61,774</percknown>
+      <percunknown>55,825</percunknown>
+   </pilot>
+   <pilot>
+      <name>BENJAMIN STEGMAYER</name>
+      <imacno>300</imacno>
+      <class>Intermediate</class>
+      <points>0.0</points>
+      <perc>60,097</perc>
+      <percknown>61,594</percknown>
+      <percunknown>52,966</percunknown>
+   </pilot>
+   <pilot>
+      <name>SEBASTIAN MUÑOZ</name>
+      <imacno>304</imacno>
+      <class>Intermediate</class>
+      <points>0.0</points>
+      <perc>57,111</perc>
+      <percknown>57,374</percknown>
+      <percunknown>55,860</percunknown>
+   </pilot>
+   <pilot>
+      <name>CLAUDIO ROJAS</name>
+      <imacno>301</imacno>
+      <class>Intermediate</class>
+      <points>0.0</points>
+      <perc>45,826</perc>
+      <percknown>48,021</percknown>
+      <percunknown>35,374</percunknown>
+   </pilot>
+   <pilot>
+      <name>DAVID ARENDT</name>
+      <imacno>302</imacno>
+      <class>Intermediate</class>
+      <points>0.0</points>
+      <perc>43,132</perc>
+      <percknown>42,277</percknown>
+      <percunknown>47,201</percunknown>
+   </pilot>
+   <pilot>
+      <name>MARTIN COSER</name>
+      <imacno>401</imacno>
+      <class>Advanced</class>
+      <points>0.0</points>
+      <perc>62,605</perc>
+      <percknown>63,278</percknown>
+      <percunknown>59,566</percunknown>
+   </pilot>
+   <pilot>
+      <name>MARIANO SUTER</name>
+      <imacno>400</imacno>
+      <class>Advanced</class>
+      <points>0.0</points>
+      <perc>55,236</perc>
+      <percknown>57,824</percknown>
+      <percunknown>43,531</percunknown>
+   </pilot>
+   <pilot>
+      <name>NICOLAS ROZAS</name>
+      <imacno>402</imacno>
+      <class>Advanced</class>
+      <points>0.0</points>
+      <perc>51,865</perc>
+      <percknown>52,252</percknown>
+      <percunknown>50,111</percunknown>
+   </pilot>
+   <pilot>
+      <name>JULIAN GIRAUDO</name>
+      <imacno>500</imacno>
+      <class>Unlimited</class>
+      <points>0.0</points>
+      <perc>62,284</perc>
+      <percknown>62,103</percknown>
+      <percunknown>63,115</percunknown>
+   </pilot>
+   <pilot>
+      <name>THIAGO MACCAGNAN</name>
+      <imacno>503</imacno>
+      <class>Unlimited</class>
+      <points>0.0</points>
+      <perc>62,246</perc>
+      <percknown>63,394</percknown>
+      <percunknown>56,990</percunknown>
+   </pilot>
+   <pilot>
+      <name>MARCELO ZINI</name>
+      <imacno>501</imacno>
+      <class>Unlimited</class>
+      <points>0.0</points>
+      <perc>61,376</perc>
+      <percknown>62,530</percknown>
+      <percunknown>56,090</percunknown>
+   </pilot>
+   <pilot>
+      <name>MARCOS BUJALDON</name>
+      <imacno>502</imacno>
+      <class>Unlimited</class>
+      <points>0.0</points>
+      <perc>54,487</perc>
+      <percknown>57,940</percknown>
+      <percunknown>38,672</percunknown>
+   </pilot>
+</pilots>
+</event>

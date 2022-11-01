@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This file was written by the 'Score!' program -->
+<!-- 'Score!' is a program for scorekeeping aerobatic contests -->
+<!-- This file '*results3.xml' is the most complete data file and was introduced in version 3 -->
+<!-- A different file '*results.xml' (no '3') is an old artifact that contains IMAC-only information that predates the other formats -->
+<!-- The file naming is fixed due to downstream processing -->
+<report>
+   <type>results</type>
+   <contest_name>copa ACONCAGUA 2da Fecha Chile</contest_name>
+   <timestamp>1-nov-2022 10:59</timestamp>
+   <region>Nat</region>
+   <section class="Basic">
+      <row rank="1" index="104">
+         <pilot id="104">
+            <name>Enrique Ariztia</name>
+         </pilot>
+         <final_score perc="65,462" percknown="65,462" percunknown="-99,000">3976.098901098901</final_score>
+         <score type="KNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="62,980">1000.0</score>
+         <score type="KNOWN" round="1" sequence="2" thrown="true" percthrown="true" perc="61,467">919.5121951219511</score>
+         <score type="KNOWN" round="2" sequence="1" thrown="false" percthrown="false" perc="64,167">1000.0</score>
+         <score type="KNOWN" round="2" sequence="2" thrown="false" percthrown="false" perc="70,335">1000.0</score>
+         <score type="KNOWN" round="3" sequence="1" thrown="false" percthrown="false" perc="64,366">976.098901098901</score>
+         <score type="KNOWN" round="4" sequence="1" thrown="true" percthrown="true" perc="56,467">896.5913993959441</score>
+      </row>
+      <row rank="2" index="105">
+         <pilot id="105">
+            <name>Federico Troitiño</name>
+         </pilot>
+         <final_score perc="62,595" percknown="62,595" percunknown="-99,000">3799.7122442774617</final_score>
+         <score type="KNOWN" round="1" sequence="1" thrown="true" percthrown="true" perc="35,842">569.1068603480512</score>
+         <score type="KNOWN" round="1" sequence="2" thrown="false" percthrown="false" perc="66,848">1000.0</score>
+         <score type="KNOWN" round="2" sequence="1" thrown="false" percthrown="true" perc="53,659">836.2507058159232</score>
+         <score type="KNOWN" round="2" sequence="2" thrown="true" percthrown="false" perc="57,020">810.688989053445</score>
+         <score type="KNOWN" round="3" sequence="1" thrown="false" percthrown="false" perc="63,533">963.4615384615385</score>
+         <score type="KNOWN" round="4" sequence="1" thrown="false" percthrown="false" perc="62,980">1000.0</score>
+      </row>
+      <row rank="3" index="109">
+         <pilot id="109">
+            <name>Nicolas Valencia</name>
+         </pilot>
+         <final_score perc="53,700" percknown="53,700" percunknown="-99,000">3353.7344300469695</final_score>
+         <score type="KNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="55,797">885.9485114339135</score>
+         <score type="KNOWN" round="1" sequence="2" thrown="true" percthrown="true" perc="0,000">0.0</score>
+         <score type="KNOWN" round="2" sequence="1" thrown="false" percthrown="false" perc="51,014">795.0310559006211</score>
+         <score type="KNOWN" round="2" sequence="2" thrown="true" percthrown="true" perc="43,116">613.0070830650354</score>
+         <score type="KNOWN" round="3" sequence="1" thrown="false" percthrown="false" perc="58,750">890.9340659340659</score>
+         <score type="KNOWN" round="4" sequence="1" thrown="false" percthrown="false" perc="49,239">781.820796778369</score>
+      </row>
+      <row rank="4" index="103">
+         <pilot id="103">
+            <name>Danis Bustos</name>
+         </pilot>
+         <final_score perc="53,084" percknown="53,084" percunknown="-99,000">3308.987059806636</final_score>
+         <score type="KNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="57,147">907.3781101682729</score>
+         <score type="KNOWN" round="1" sequence="2" thrown="false" percthrown="false" perc="52,409">784.010840108401</score>
+         <score type="KNOWN" round="2" sequence="1" thrown="false" percthrown="false" perc="48,904">762.1400338791643</score>
+         <score type="KNOWN" round="2" sequence="2" thrown="true" percthrown="true" perc="45,788">650.9980682549902</score>
+         <score type="KNOWN" round="3" sequence="1" thrown="true" percthrown="true" perc="47,844">725.5494505494505</score>
+         <score type="KNOWN" round="4" sequence="1" thrown="false" percthrown="false" perc="53,877">855.4580756507982</score>
+      </row>
+      <row rank="5" index="106">
+         <pilot id="106">
+            <name>Francisco Eterovich</name>
+         </pilot>
+         <final_score perc="53,154" percknown="53,154" percunknown="-99,000">3296.4720446024853</final_score>
+         <score type="KNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="56,793">901.769020566662</score>
+         <score type="KNOWN" round="1" sequence="2" thrown="false" percthrown="false" perc="55,226">826.1517615176149</score>
+         <score type="KNOWN" round="2" sequence="1" thrown="false" percthrown="true" perc="47,446">739.4127611518917</score>
+         <score type="KNOWN" round="2" sequence="2" thrown="true" percthrown="true" perc="45,580">648.0360592401804</score>
+         <score type="KNOWN" round="3" sequence="1" thrown="true" percthrown="false" perc="48,379">733.6538461538461</score>
+         <score type="KNOWN" round="4" sequence="1" thrown="false" percthrown="false" perc="52,219">829.1385013663167</score>
+      </row>
+      <row rank="6" index="102">
+         <pilot id="102">
+            <name>Calos Diaz</name>
+         </pilot>
+         <final_score perc="52,582" percknown="52,582" percunknown="-99,000">3276.414604509994</final_score>
+         <score type="KNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="54,529">865.8133179922338</score>
+         <score type="KNOWN" round="1" sequence="2" thrown="false" percthrown="false" perc="52,554">786.1788617886177</score>
+         <score type="KNOWN" round="2" sequence="1" thrown="false" percthrown="false" perc="50,643">789.243365330322</score>
+         <score type="KNOWN" round="2" sequence="2" thrown="true" percthrown="true" perc="42,047">597.8106889890535</score>
+         <score type="KNOWN" round="3" sequence="1" thrown="true" percthrown="true" perc="49,149">745.3296703296703</score>
+         <score type="KNOWN" round="4" sequence="1" thrown="false" percthrown="false" perc="52,600">835.1790593988205</score>
+      </row>
+      <row rank="7" index="111">
+         <pilot id="111">
+            <name>Yoel Arendt</name>
+         </pilot>
+         <final_score perc="50,444" percknown="50,444" percunknown="-99,000">3140.1495679010254</final_score>
+         <score type="KNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="54,475">864.9503811304475</score>
+         <score type="KNOWN" round="1" sequence="2" thrown="false" percthrown="false" perc="52,808">789.972899728997</score>
+         <score type="KNOWN" round="2" sequence="1" thrown="false" percthrown="false" perc="51,540">803.218520609825</score>
+         <score type="KNOWN" round="2" sequence="2" thrown="true" percthrown="true" perc="0,000">0.0</score>
+         <score type="KNOWN" round="3" sequence="1" thrown="true" percthrown="true" perc="41,214">625.0</score>
+         <score type="KNOWN" round="4" sequence="1" thrown="false" percthrown="false" perc="42,953">682.007766431756</score>
+      </row>
+      <row rank="8" index="110">
+         <pilot id="110">
+            <name>Sergio Pizarro</name>
+         </pilot>
+         <final_score perc="43,161" percknown="43,161" percunknown="-99,000">2632.830339122408</final_score>
+         <score type="KNOWN" round="1" sequence="1" thrown="true" percthrown="true" perc="16,721">265.49690780957866</score>
+         <score type="KNOWN" round="1" sequence="2" thrown="true" percthrown="true" perc="29,004">433.87533875338744</score>
+         <score type="KNOWN" round="2" sequence="1" thrown="false" percthrown="false" perc="42,935">669.1134952004517</score>
+         <score type="KNOWN" round="2" sequence="2" thrown="false" percthrown="false" perc="37,971">539.8583386992917</score>
+         <score type="KNOWN" round="3" sequence="1" thrown="false" percthrown="false" perc="45,960">696.978021978022</score>
+         <score type="KNOWN" round="4" sequence="1" thrown="false" percthrown="false" perc="45,779">726.8804832446426</score>
+      </row>
+      <row rank="9" index="100">
+         <pilot id="100">
+            <name>Andres Vasquez</name>
+         </pilot>
+         <final_score perc="40,587" percknown="40,587" percunknown="-99,000">2475.677183112727</final_score>
+         <score type="KNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="35,027">556.162807421257</score>
+         <score type="KNOWN" round="1" sequence="2" thrown="false" percthrown="false" perc="48,478">725.2032520325203</score>
+         <score type="KNOWN" round="2" sequence="1" thrown="false" percthrown="true" perc="29,656">462.1682665160927</score>
+         <score type="KNOWN" round="2" sequence="2" thrown="true" percthrown="false" perc="30,562">434.51384417256924</score>
+         <score type="KNOWN" round="3" sequence="1" thrown="false" percthrown="false" perc="48,279">732.1428571428571</score>
+         <score type="KNOWN" round="4" sequence="1" thrown="true" percthrown="true" perc="26,667">423.41435351646766</score>
+      </row>
+      <row rank="10" index="108">
+         <pilot id="108">
+            <name>Jaime Parra</name>
+         </pilot>
+         <final_score perc="35,702" percknown="35,702" percunknown="-99,000">2220.4091182791526</final_score>
+         <score type="KNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="35,743">567.5248094347764</score>
+         <score type="KNOWN" round="1" sequence="2" thrown="false" percthrown="false" perc="35,761">534.9593495934959</score>
+         <score type="KNOWN" round="2" sequence="1" thrown="false" percthrown="false" perc="40,688">634.1050254093732</score>
+         <score type="KNOWN" round="2" sequence="2" thrown="true" percthrown="true" perc="24,149">343.3354797166774</score>
+         <score type="KNOWN" round="3" sequence="1" thrown="true" percthrown="false" perc="30,616">464.28571428571416</score>
+         <score type="KNOWN" round="4" sequence="1" thrown="false" percthrown="true" perc="30,471">483.81993384150724</score>
+      </row>
+      <row rank="11" index="101">
+         <pilot id="101">
+            <name>Benjamin Abasolo</name>
+         </pilot>
+         <final_score perc="32,101" percknown="32,101" percunknown="-99,000">1991.8020998130303</final_score>
+         <score type="KNOWN" round="1" sequence="1" thrown="true" percthrown="true" perc="0,000">0.0</score>
+         <score type="KNOWN" round="1" sequence="2" thrown="true" percthrown="true" perc="0,000">0.0</score>
+         <score type="KNOWN" round="2" sequence="1" thrown="false" percthrown="false" perc="0,000">0.0</score>
+         <score type="KNOWN" round="2" sequence="2" thrown="false" percthrown="false" perc="0,000">0.0</score>
+         <score type="KNOWN" round="3" sequence="1" thrown="false" percthrown="false" perc="65,942">1000.0</score>
+         <score type="KNOWN" round="4" sequence="1" thrown="false" percthrown="false" perc="62,464">991.8020998130303</score>
+      </row>
+   </section>
+   <section class="Sportsman">
+      <row rank="1" index="203">
+         <pilot id="203">
+            <name>Diego Nuñez</name>
+         </pilot>
+         <final_score perc="65,183" percknown="65,998" percunknown="61,223">4983.72513562387</final_score>
+         <score type="KNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="73,034">1000.0</score>
+         <score type="KNOWN" round="1" sequence="2" thrown="false" percthrown="false" perc="69,994">1000.0</score>
+         <score type="KNOWN" round="2" sequence="1" thrown="false" percthrown="false" perc="56,916">983.7251356238698</score>
+         <score type="KNOWN" round="2" sequence="2" thrown="false" percthrown="false" perc="64,047">1000.0</score>
+         <score type="KNOWN" round="3" sequence="1" thrown="true" percthrown="true" perc="46,118">826.0183450044385</score>
+         <score type="UNKNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="61,223">1000.0</score>
+      </row>
+      <row rank="2" index="208">
+         <pilot id="208">
+            <name>Natalio O'Kuingthon</name>
+         </pilot>
+         <final_score perc="56,469" percknown="57,460" percunknown="51,658">4468.782802210162</final_score>
+         <score type="KNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="57,863">792.2792731659505</score>
+         <score type="KNOWN" round="1" sequence="2" thrown="false" percthrown="false" perc="58,287">832.7432932106049</score>
+         <score type="KNOWN" round="2" sequence="1" thrown="false" percthrown="false" perc="57,858">1000.0</score>
+         <score type="KNOWN" round="2" sequence="2" thrown="true" percthrown="true" perc="44,615">696.586707935689</score>
+         <score type="KNOWN" round="3" sequence="1" thrown="false" percthrown="false" perc="55,831">1000.0</score>
+         <score type="UNKNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="51,658">843.7602358336063</score>
+      </row>
+      <row rank="3" index="207">
+         <pilot id="207">
+            <name>Mauricio Zwanzger</name>
+         </pilot>
+         <final_score perc="52,449" percknown="52,645" percunknown="51,497">4030.972597984367</final_score>
+         <score type="KNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="58,557">801.7793862625349</score>
+         <score type="KNOWN" round="1" sequence="2" thrown="false" percthrown="false" perc="52,500">750.0590040122728</score>
+         <score type="KNOWN" round="2" sequence="1" thrown="false" percthrown="false" perc="50,369">870.562482154754</score>
+         <score type="KNOWN" round="2" sequence="2" thrown="false" percthrown="false" perc="49,152">767.4318631244089</score>
+         <score type="KNOWN" round="3" sequence="1" thrown="true" percthrown="true" perc="0,000">0.0</score>
+         <score type="UNKNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="51,497">841.1398624303963</score>
+      </row>
+      <row rank="4" index="204">
+         <pilot id="204">
+            <name>Fernando Abasolo</name>
+         </pilot>
+         <final_score perc="48,942" percknown="48,177" percunknown="52,654">3978.9692523727604</final_score>
+         <score type="KNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="46,602">638.0909296539246</score>
+         <score type="KNOWN" round="1" sequence="2" thrown="true" percthrown="true" perc="42,764">610.9668790811108</score>
+         <score type="KNOWN" round="2" sequence="1" thrown="false" percthrown="false" perc="50,385">870.8480060911774</score>
+         <score type="KNOWN" round="2" sequence="2" thrown="false" percthrown="false" perc="45,468">709.9131630986158</score>
+         <score type="KNOWN" round="3" sequence="1" thrown="false" percthrown="false" perc="50,253">900.0887661505081</score>
+         <score type="UNKNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="52,654">860.0283873785348</score>
+      </row>
+      <row rank="5" index="200">
+         <pilot id="200">
+            <name>Blas Ocampo</name>
+         </pilot>
+         <final_score perc="51,035" percknown="52,661" percunknown="43,142">3977.4337437012264</final_score>
+         <score type="KNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="54,422">745.1556962979718</score>
+         <score type="KNOWN" round="1" sequence="2" thrown="false" percthrown="false" perc="56,019">800.3304224687279</score>
+         <score type="KNOWN" round="2" sequence="1" thrown="false" percthrown="false" perc="54,879">948.5105167983249</score>
+         <score type="KNOWN" round="2" sequence="2" thrown="true" percthrown="false" perc="45,325">707.6777577164473</score>
+         <score type="KNOWN" round="3" sequence="1" thrown="false" percthrown="true" perc="43,480">778.7750271229907</score>
+         <score type="UNKNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="43,142">704.6620810132109</score>
+      </row>
+      <row rank="6" index="202">
+         <pilot id="202">
+            <name>Daniel Pais</name>
+         </pilot>
+         <final_score perc="45,380" percknown="46,838" percunknown="38,302">3460.0822427231046</final_score>
+         <score type="KNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="54,053">740.1040488577244</score>
+         <score type="KNOWN" round="1" sequence="2" thrown="false" percthrown="false" perc="45,765">653.8431279993706</score>
+         <score type="KNOWN" round="2" sequence="1" thrown="false" percthrown="false" perc="44,202">763.9668792233749</score>
+         <score type="KNOWN" round="2" sequence="2" thrown="false" percthrown="false" perc="43,331">676.5540366262575</score>
+         <score type="KNOWN" round="3" sequence="1" thrown="true" percthrown="true" perc="32,764">586.8428839136011</score>
+         <score type="UNKNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="38,302">625.6141500163773</score>
+      </row>
+      <row rank="7" index="206">
+         <pilot id="206">
+            <name>Julio Inostroza</name>
+         </pilot>
+         <final_score perc="38,773" percknown="39,379" percunknown="35,829">3059.198479653058</final_score>
+         <score type="KNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="37,880">518.6609364397194</score>
+         <score type="KNOWN" round="1" sequence="2" thrown="true" percthrown="false" perc="33,871">483.91157265360715</score>
+         <score type="KNOWN" round="2" sequence="1" thrown="false" percthrown="false" perc="43,811">757.2094793946892</score>
+         <score type="KNOWN" round="2" sequence="2" thrown="false" percthrown="false" perc="41,955">655.0597541054079</score>
+         <score type="KNOWN" round="3" sequence="1" thrown="false" percthrown="true" perc="30,319">543.0515829963508</score>
+         <score type="UNKNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="35,829">585.2167267168904</score>
+      </row>
+      <row rank="8" index="209">
+         <pilot id="209">
+            <name>Tomas Gutierrez</name>
+         </pilot>
+         <final_score perc="20,160" percknown="24,312" percunknown="0,000">1545.5396317740617</final_score>
+         <score type="KNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="19,240">263.43964412274744</score>
+         <score type="KNOWN" round="1" sequence="2" thrown="true" percthrown="false" perc="17,302">247.18747541499485</score>
+         <score type="KNOWN" round="2" sequence="1" thrown="false" percthrown="false" perc="32,203">556.5813267345577</score>
+         <score type="KNOWN" round="2" sequence="2" thrown="false" percthrown="false" perc="28,502">445.01762531166713</score>
+         <score type="KNOWN" round="3" sequence="1" thrown="false" percthrown="true" perc="15,661">280.50103560508927</score>
+         <score type="UNKNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="0,000">0.0</score>
+      </row>
+   </section>
+   <section class="Intermediate">
+      <row rank="1" index="303">
+         <pilot id="303">
+            <name>FAUSTO BUJALDON</name>
+         </pilot>
+         <final_score perc="60,741" percknown="61,774" percunknown="55,825">4952.655693078859</final_score>
+         <score type="KNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="62,747">1000.0</score>
+         <score type="KNOWN" round="1" sequence="2" thrown="false" percthrown="false" perc="60,642">985.8307990047001</score>
+         <score type="KNOWN" round="2" sequence="1" thrown="false" percthrown="false" perc="60,043">967.4590669315613</score>
+         <score type="KNOWN" round="2" sequence="2" thrown="true" percthrown="true" perc="58,244">952.1790505317301</score>
+         <score type="KNOWN" round="3" sequence="1" thrown="false" percthrown="false" perc="63,665">1000.0</score>
+         <score type="UNKNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="55,825">999.3658271425984</score>
+      </row>
+      <row rank="2" index="300">
+         <pilot id="300">
+            <name>BENJAMIN STEGMAYER</name>
+         </pilot>
+         <final_score perc="60,097" percknown="61,594" percunknown="52,966">4916.25701980794</final_score>
+         <score type="KNOWN" round="1" sequence="1" thrown="true" percthrown="true" perc="55,514">884.7404797398021</score>
+         <score type="KNOWN" round="1" sequence="2" thrown="false" percthrown="false" perc="61,514">1000.0</score>
+         <score type="KNOWN" round="2" sequence="1" thrown="false" percthrown="false" perc="62,062">1000.0</score>
+         <score type="KNOWN" round="2" sequence="2" thrown="false" percthrown="false" perc="61,169">1000.0</score>
+         <score type="KNOWN" round="3" sequence="1" thrown="false" percthrown="false" perc="61,633">968.0780018699079</score>
+         <score type="UNKNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="52,966">948.1790179380323</score>
+      </row>
+      <row rank="3" index="304">
+         <pilot id="304">
+            <name>SEBASTIAN MUÑOZ</name>
+         </pilot>
+         <final_score perc="57,111" percknown="57,374" percunknown="55,860">4696.712105313294</final_score>
+         <score type="KNOWN" round="1" sequence="1" thrown="true" percthrown="true" perc="46,509">741.2250982517957</score>
+         <score type="KNOWN" round="1" sequence="2" thrown="false" percthrown="false" perc="59,435">966.2012717721869</score>
+         <score type="KNOWN" round="2" sequence="1" thrown="false" percthrown="false" perc="57,385">924.642049736247</score>
+         <score type="KNOWN" round="2" sequence="2" thrown="false" percthrown="false" perc="56,280">920.0667269062351</score>
+         <score type="KNOWN" round="3" sequence="1" thrown="false" percthrown="false" perc="56,395">885.8020568986244</score>
+         <score type="UNKNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="55,860">1000.0</score>
+      </row>
+      <row rank="4" index="301">
+         <pilot id="301">
+            <name>CLAUDIO ROJAS</name>
+         </pilot>
+         <final_score perc="45,826" percknown="48,021" percunknown="35,374">3707.5003472851827</final_score>
+         <score type="KNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="45,808">730.0447215069792</score>
+         <score type="KNOWN" round="1" sequence="2" thrown="false" percthrown="false" perc="48,733">792.2311307713575</score>
+         <score type="KNOWN" round="2" sequence="1" thrown="false" percthrown="false" perc="48,895">787.8331163937796</score>
+         <score type="KNOWN" round="2" sequence="2" thrown="true" percthrown="true" perc="40,910">668.7982206158338</score>
+         <score type="KNOWN" round="3" sequence="1" thrown="false" percthrown="false" perc="48,648">764.1244824362229</score>
+         <score type="UNKNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="35,374">633.2668961768435</score>
+      </row>
+      <row rank="5" index="302">
+         <pilot id="302">
+            <name>DAVID ARENDT</name>
+         </pilot>
+         <final_score perc="43,132" percknown="42,277" percunknown="47,201">3550.330151746906</final_score>
+         <score type="KNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="44,966">716.6282694131995</score>
+         <score type="KNOWN" round="1" sequence="2" thrown="false" percthrown="false" perc="38,724">629.5272325131325</score>
+         <score type="KNOWN" round="2" sequence="1" thrown="false" percthrown="false" perc="43,202">696.1019387545387</score>
+         <score type="KNOWN" round="2" sequence="2" thrown="true" percthrown="true" perc="36,935">603.8089942309028</score>
+         <score type="KNOWN" round="3" sequence="1" thrown="false" percthrown="false" perc="42,215">663.0826766395086</score>
+         <score type="UNKNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="47,201">844.9900344265267</score>
+      </row>
+   </section>
+   <section class="Advanced">
+      <row rank="1" index="401">
+         <pilot id="401">
+            <name>MARTIN COSER</name>
+         </pilot>
+         <final_score perc="62,605" percknown="63,278" percunknown="59,566">5000.0</final_score>
+         <score type="KNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="67,372">1000.0</score>
+         <score type="KNOWN" round="1" sequence="2" thrown="false" percthrown="false" perc="60,794">1000.0</score>
+         <score type="KNOWN" round="2" sequence="1" thrown="true" percthrown="true" perc="55,722">937.9279876297768</score>
+         <score type="KNOWN" round="2" sequence="2" thrown="false" percthrown="false" perc="63,337">1000.0</score>
+         <score type="KNOWN" round="3" sequence="1" thrown="false" percthrown="false" perc="61,608">1000.0</score>
+         <score type="UNKNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="59,566">1000.0</score>
+      </row>
+      <row rank="2" index="400">
+         <pilot id="400">
+            <name>MARIANO SUTER</name>
+         </pilot>
+         <final_score perc="55,236" percknown="57,824" percunknown="43,531">4508.749632125448</final_score>
+         <score type="KNOWN" round="1" sequence="1" thrown="true" percthrown="true" perc="53,540">794.6919892865839</score>
+         <score type="KNOWN" round="1" sequence="2" thrown="false" percthrown="false" perc="56,175">924.0151106314086</score>
+         <score type="KNOWN" round="2" sequence="1" thrown="false" percthrown="false" perc="59,409">1000.0</score>
+         <score type="KNOWN" round="2" sequence="2" thrown="false" percthrown="false" perc="54,793">865.1126651126648</score>
+         <score type="KNOWN" round="3" sequence="1" thrown="false" percthrown="false" perc="60,919">988.8167003940782</score>
+         <score type="UNKNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="43,531">730.8051559872968</score>
+      </row>
+      <row rank="3" index="402">
+         <pilot id="402">
+            <name>NICOLAS ROZAS</name>
+         </pilot>
+         <final_score perc="51,865" percknown="52,252" percunknown="50,111">4251.822209688388</final_score>
+         <score type="KNOWN" round="1" sequence="1" thrown="true" percthrown="true" perc="46,539">690.7718529340151</score>
+         <score type="KNOWN" round="1" sequence="2" thrown="false" percthrown="false" perc="51,230">842.6875337290879</score>
+         <score type="KNOWN" round="2" sequence="1" thrown="false" percthrown="false" perc="49,078">826.0989617848464</score>
+         <score type="KNOWN" round="2" sequence="2" thrown="false" percthrown="false" perc="51,099">806.7858067858066</score>
+         <score type="KNOWN" round="3" sequence="1" thrown="false" percthrown="false" perc="57,602">934.9771008627117</score>
+         <score type="UNKNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="50,111">841.2728065259355</score>
+      </row>
+   </section>
+   <section class="Unlimited">
+      <row rank="1" index="500">
+         <pilot id="500">
+            <name>JULIAN GIRAUDO</name>
+         </pilot>
+         <final_score perc="62,284" percknown="62,103" percunknown="63,115">4938.120492181955</final_score>
+         <score type="KNOWN" round="1" sequence="1" thrown="true" percthrown="true" perc="57,588">942.9685324422163</score>
+         <score type="KNOWN" round="1" sequence="2" thrown="false" percthrown="false" perc="57,762">986.8665736866573</score>
+         <score type="KNOWN" round="2" sequence="1" thrown="false" percthrown="false" perc="61,929">951.2539184952979</score>
+         <score type="KNOWN" round="2" sequence="2" thrown="false" percthrown="false" perc="65,265">1000.0</score>
+         <score type="KNOWN" round="3" sequence="1" thrown="false" percthrown="false" perc="63,456">1000.0</score>
+         <score type="UNKNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="63,115">1000.0</score>
+      </row>
+      <row rank="2" index="503">
+         <pilot id="503">
+            <name>THIAGO MACCAGNAN</name>
+         </pilot>
+         <final_score perc="62,246" percknown="63,394" percunknown="56,990">4893.464938289978</final_score>
+         <score type="KNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="61,071">1000.0</score>
+         <score type="KNOWN" round="1" sequence="2" thrown="false" percthrown="true" perc="58,354">996.978149697815</score>
+         <score type="KNOWN" round="2" sequence="1" thrown="false" percthrown="false" perc="65,102">1000.0</score>
+         <score type="KNOWN" round="2" sequence="2" thrown="false" percthrown="false" perc="64,844">993.5376276839693</score>
+         <score type="KNOWN" round="3" sequence="1" thrown="true" percthrown="false" perc="62,558">985.8490566037738</score>
+         <score type="UNKNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="56,990">902.9491609081937</score>
+      </row>
+      <row rank="3" index="501">
+         <pilot id="501">
+            <name>MARCELO ZINI</name>
+         </pilot>
+         <final_score perc="61,376" percknown="62,530" percunknown="56,090">4871.986899597174</final_score>
+         <score type="KNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="60,942">997.8835978835979</score>
+         <score type="KNOWN" round="1" sequence="2" thrown="false" percthrown="true" perc="58,531">1000.0</score>
+         <score type="KNOWN" round="2" sequence="1" thrown="true" percthrown="false" perc="61,398">943.103448275862</score>
+         <score type="KNOWN" round="2" sequence="2" thrown="false" percthrown="false" perc="64,684">991.0881801125705</score>
+         <score type="KNOWN" round="3" sequence="1" thrown="false" percthrown="false" perc="63,095">994.3181818181822</score>
+         <score type="UNKNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="56,090">888.6969397828233</score>
+      </row>
+      <row rank="4" index="502">
+         <pilot id="502">
+            <name>MARCOS BUJALDON</name>
+         </pilot>
+         <final_score perc="54,487" percknown="57,940" percunknown="38,672">4303.102063170358</final_score>
+         <score type="KNOWN" round="1" sequence="1" thrown="false" percthrown="true" perc="55,401">907.1567808409911</score>
+         <score type="KNOWN" round="1" sequence="2" thrown="false" percthrown="false" perc="57,238">977.9172477917247</score>
+         <score type="KNOWN" round="2" sequence="1" thrown="false" percthrown="false" perc="58,605">900.2089864158829</score>
+         <score type="KNOWN" round="2" sequence="2" thrown="false" percthrown="false" perc="59,071">905.0969355847404</score>
+         <score type="KNOWN" round="3" sequence="1" thrown="true" percthrown="false" perc="56,847">895.8512006861065</score>
+         <score type="UNKNOWN" round="1" sequence="1" thrown="false" percthrown="false" perc="38,672">612.7221125370188</score>
+      </row>
+   </section>
+   <section class="Freestyle">
+      <row rank="1" index="300">
+         <pilot id="300">
+            <name>BENJAMIN STEGMAYER</name>
+         </pilot>
+         <final_score>1000.0</final_score>
+         <score type="FREESTYLE" round="1" sequence="1" thrown="false">1000.0</score>
+      </row>
+      <row rank="2" index="500">
+         <pilot id="500">
+            <name>JULIAN GIRAUDO</name>
+         </pilot>
+         <final_score>902.3474178403756</final_score>
+         <score type="FREESTYLE" round="1" sequence="1" thrown="false">902.3474178403756</score>
+      </row>
+      <row rank="3" index="304">
+         <pilot id="304">
+            <name>SEBASTIAN MUÑOZ</name>
+         </pilot>
+         <final_score>831.9248826291077</final_score>
+         <score type="FREESTYLE" round="1" sequence="1" thrown="false">831.9248826291077</score>
+      </row>
+      <row rank="4" index="402">
+         <pilot id="402">
+            <name>NICOLAS ROZAS</name>
+         </pilot>
+         <final_score>792.4882629107981</final_score>
+         <score type="FREESTYLE" round="1" sequence="1" thrown="false">792.4882629107981</score>
+      </row>
+      <row rank="5" index="206">
+         <pilot id="206">
+            <name>Julio Inostroza</name>
+         </pilot>
+         <final_score>510.79812206572774</final_score>
+         <score type="FREESTYLE" round="1" sequence="1" thrown="false">510.79812206572774</score>
+      </row>
+   </section>
+</report>
